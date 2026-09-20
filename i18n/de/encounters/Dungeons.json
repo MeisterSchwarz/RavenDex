@@ -1,0 +1,59 @@
+{
+  "Darkmoor_Yevgeny_Nightcreeper": {
+    "name": "Yevgeny Nightcreeper",
+
+    "mechanics": {
+      "counter_blade": {
+        "name": "Klingen-Konter",
+        "description": "Klingen und Globalzauber lösen einen Konter mit Freeze aus.",
+        "advice": "Keine Klingen verwenden."
+      },
+
+      "counter_helpful_ward": {
+        "name": "Schutzzauber-Konter",
+        "description": "Positive Schutzzauber lösen Pierce und weitere Ward-Konter aus.",
+        "advice": "Positive Wards vermeiden."
+      },
+
+      "counter_harmful_charm": {
+        "name": "Negativer Charm-Konter",
+        "description": "Negative Charms lösen einen Konter mit Bad Juju aus. Charms gegen alle Gegner sind davon ausgenommen.",
+        "advice": "Negative Einzelziel-Charms vermeiden."
+      }
+    },
+
+    "schedules": {
+      "primary": {
+        "name": "Primärer Interrupt-Zyklus",
+
+        "segments": {
+          "ice": {
+            "name": "Eis-Zyklus"
+          },
+
+          "myth": {
+            "name": "Mythos-Zyklus"
+          },
+
+          "death": {
+            "name": "Tod-Zyklus"
+          }
+        }
+      },
+
+      "secondary": {
+        "name": "Sekundärer Interrupt-Zyklus"
+      }
+    },
+
+    "advice": {
+      "ice_cycle_finisher": "Starker Eis-Cheat am Rundenanfang",
+      "myth_cycle_finisher": "Starker Mythos-Cheat am Rundenanfang",
+      "death_cycle_finisher": "Starker Tod-Cheat am Rundenanfang",
+
+      "shift_chaney": "Shift Chaney am Rundenende",
+      "shift_akhtang": "Shift Akhtang am Rundenende",
+      "shift_blackwater": "Shift Blackwater am Rundenende"
+    }
+  }
+}
