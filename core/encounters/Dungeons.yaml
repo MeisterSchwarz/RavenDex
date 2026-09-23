@@ -1,0 +1,281 @@
+G14_DM/DM_Z07_Graveyard:
+  - id: yevgeny
+
+    participants:
+      - enemy: G14-DM-Ghoul_Boss
+        role: boss
+
+    mechanics:
+      - id: counter_blade
+
+        trigger:
+          type: spell_cast
+
+        conditions:
+          - field: caster.team
+            op: eq
+            value: player
+
+          - any:
+              - field: spell.effects
+                op: contains
+                value: blade
+
+              - field: spell.kind
+                op: eq
+                value: global
+
+        actions:
+          - type: cast
+            caster: $boss
+            spell: Freeze
+            target: $trigger.caster
+
+        advice:
+          type: avoid
+          subject: blade
+          severity: warning
+
+      - id: counter_helpful_ward
+
+        trigger:
+          type: effect_added
+
+        conditions:
+          - field: effect.kind
+            op: eq
+            value: ward
+
+          - field: effect.polarity
+            op: eq
+            value: positive
+
+          - field: effect.source.team
+            op: eq
+            value: player
+
+        actions:
+          - type: cast
+            caster: $boss
+            spell: Pierce
+            target: $trigger.target
+
+          - type: cast
+            caster: $minions
+            spell: Steal Ward
+            target: $trigger.target
+
+        advice:
+          type: avoid
+          subject: helpful_ward
+          severity: warning
+
+      - id: counter_harmful_charm
+
+        trigger:
+          type: effect_added
+
+        conditions:
+          - field: effect.kind
+            op: eq
+            value: charm
+
+          - field: effect.polarity
+            op: eq
+            value: negative
+
+          - field: effect.source.team
+            op: eq
+            value: player
+
+          - field: spell.target_scope
+            op: neq
+            value: all_enemies
+
+        actions:
+          - type: cast
+            caster: $boss
+            spell: Bad Juju
+            target: $trigger.caster
+
+        advice:
+          type: avoid
+          subject: harmful_charm
+          severity: warning
+
+    schedules:
+      - id: primary
+        start_round: 1
+        period: 15
+
+        segments:
+          - id: ice
+            from: 1
+            to: 5
+
+            events:
+              - when:
+                  type: every_round
+                  timing: start
+
+                actions:
+                  - type: cast
+                    caster: $boss
+                    spell: Frozen Armor (185)
+                    target: $random_enemy
+
+              - when:
+                  type: segment_round
+                  round: 5
+                  timing: start
+
+                actions:
+                  - type: cast
+                    caster: $boss
+                    spell: Katabatic Wind
+
+                  - type: cast
+                    caster: $boss
+                    spell: Mass Ice Trap
+
+                  - type: cast
+                    caster: $boss
+                    spell: Iceblade (+45%)
+
+                  - type: cast
+                    caster: $boss
+                    spell: Dark Weaver
+                    target: $lowest_health_player
+
+                advice:
+                  type: incoming
+                  subject: ice_cycle_finisher
+                  severity: danger
+
+          - id: myth
+            from: 6
+            to: 10
+
+            events:
+              - when:
+                  type: every_round
+                  timing: start
+
+                actions:
+                  - type: cast
+                    caster: $boss
+                    spell: Buff Minion
+                    target: $random_enemy
+
+              - when:
+                  type: segment_round
+                  round: 5
+                  timing: start
+
+                actions:
+                  - type: cast
+                    caster: $boss
+                    spell: Saga of Heroes
+
+                  - type: cast
+                    caster: $boss
+                    spell: Mass Myth Trap
+
+                  - type: cast
+                    caster: $boss
+                    spell: Mythblade (+40%)
+
+                  - type: cast
+                    caster: $boss
+                    spell: Cursed Colossus
+
+                advice:
+                  type: incoming
+                  subject: myth_cycle_finisher
+                  severity: danger
+
+          - id: death
+            from: 11
+            to: 15
+
+            events:
+              - when:
+                  type: every_round
+                  timing: start
+
+                actions:
+                  - type: cast
+                    caster: $boss
+                    spell: Feint (+75%)
+                    target: $random_player
+
+              - when:
+                  type: segment_round
+                  round: 5
+                  timing: start
+
+                actions:
+                  - type: cast
+                    caster: $boss
+                    spell: Doom and Gloom (-75%)
+
+                  - type: cast
+                    caster: $boss
+                    spell: Deathblade (+45%)
+
+                  - type: cast
+                    caster: $boss
+                    spell: Mass Death Trap
+
+                  - type: cast
+                    caster: $boss
+                    spell: From Beyond
+
+                advice:
+                  type: incoming
+                  subject: death_cycle_finisher
+                  severity: danger
+
+      - id: secondary
+        start_round: 1
+        period: 9
+
+        events:
+          - round: 3
+            timing: end
+
+            actions:
+              - type: cast
+                caster: $boss
+                spell: Shift Chaney (3 Pip)
+
+            advice:
+              type: incoming
+              subject: shift_chaney
+              severity: warning
+
+          - round: 6
+            timing: end
+
+            actions:
+              - type: cast
+                caster: $boss
+                spell: Shift Akhtang
+
+            advice:
+              type: incoming
+              subject: shift_akhtang
+              severity: warning
+
+          - round: 9
+            timing: end
+
+            actions:
+              - type: cast
+                caster: $boss
+                spell: Shift Blackwater
+
+            advice:
+              type: incoming
+              subject: shift_blackwater
+              severity: danger

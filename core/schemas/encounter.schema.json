@@ -2,19 +2,31 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://corvin.app/schemas/encounter.schema.json",
   "title": "Corvin Encounter Data",
+
   "type": "object",
+
   "additionalProperties": {
-    "$ref": "#/$defs/encounter"
+    "type": "array",
+    "items": {
+      "$ref": "#/$defs/encounter"
+    }
   },
+
   "$defs": {
     "encounter": {
       "type": "object",
       "required": [
+        "id",
         "participants"
       ],
       "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
         "participants": {
           "type": "array",
+          "minItems": 1,
           "items": {
             "$ref": "#/$defs/participant"
           }
@@ -55,10 +67,12 @@
       ],
       "properties": {
         "enemy": {
-          "type": "string"
+          "type": "string",
+          "minLength": 1
         },
         "role": {
-          "type": "string"
+          "type": "string",
+          "minLength": 1
         },
         "optional": {
           "type": "boolean"
