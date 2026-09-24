@@ -1,0 +1,41 @@
+G14-DM-Ghoul_Boss:
+  affinities: 
+    death: -30
+    fire: 15
+    ice: -60
+    life: 30
+    myth: -30
+    storm: 15
+
+G14-HS-Ammit:
+  affinities: {}
+
+G14-HS-Apep_Boss:
+  affinities: {}
+
+G14-HS-Ifzt:
+  affinities: {}
+
+G14-HS-Krok_Condemned:
+  affinities: {}
+
+G14-HS-Krok_Death:
+  affinities: {}
+
+G14-HS-Krok_Life:
+  affinities: {}
+
+G14-HS-KusBhid:
+  affinities: {}
+
+G14-HS-MohLharz:
+  affinities: {}
+
+G14-HS-Mummy_Ifzt:
+  affinities: {}
+
+G14-HS-Ophidian_Element:
+  affinities: {}
+
+G14-HS-Ophidian_Spirit:
+  affinities: {}
