@@ -8,7 +8,7 @@ G14-DM-Ghoul_Boss:
     storm: 15
 
 G14-DM-Wraith:
-    affinities: 
+  affinities: 
     fire: 30
     myth: 30
     ice: -80
