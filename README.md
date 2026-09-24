@@ -1,99 +1,65 @@
-# RavenDex Data
+# RavenDex
 
-Shared game data for the **RavenDex** ecosystem.
+**Community-maintained Wizard101 game data.**
 
-This repository contains structured data extracted from Wizard101, including internal game IDs, localizations, and community-maintained metadata.
+RavenDex is a structured data repository for Wizard101 containing internal
+game identifiers, localizations, and community-maintained metadata.
 
-The goal of this repository is to provide a single, version-controlled source of truth that can be reused by RavenDex and other community projects.
+It serves as a reusable source of game data for tools built around Wizard101,
+including overlays, websites, APIs, Discord bots, desktop applications, and
+other community projects.
 
-> **Application:** https://github.com/MeisterSchwarz/ravendex
+RavenDex is also used by
+[Corvin](https://github.com/MeisterSchwarz/corvin101), a Wizard101 companion
+application.
 
 ---
 
 ## 🎯 Goals
 
-- Provide a centralized dataset for Wizard101.
-- Separate application code from game data.
-- Support multiple languages through community translations.
-- Offer stable identifiers for developers building tools on top of the data.
-- Enable community contributions without requiring changes to the application itself.
+RavenDex aims to:
+
+- Build a structured and reusable dataset for Wizard101.
+- Preserve internal game identifiers as stable references.
+- Support multiple languages and localizations.
+- Separate game data from individual applications.
+- Make Wizard101 data easy to consume programmatically.
+- Allow community projects to share and improve the same dataset.
 
 ---
 
-## 📦 Currently Included
+## 📦 Data
 
-The repository currently contains data for:
+RavenDex currently contains data for entities such as:
 
-- Enemy IDs
-- Zone IDs
-- NPC IDs
-- Object IDs
+- Enemies
+- Zones
+- NPCs
+- Objects
+- Internal game identifiers
 - Localized names
-- Community translations
-- Contribution files submitted through RavenDex
+- Community-maintained translations
 
-The dataset will continue to grow over time as additional game data is collected and verified.
+The dataset will continue to grow as additional game data is discovered,
+collected, and verified.
 
 ---
 
 ## 🌍 Localization
 
-RavenDex stores game entities using their internal IDs rather than language-specific names.
+RavenDex identifies game entities using their internal identifiers rather than
+their localized display names.
 
-This allows every entity to have translations for multiple languages while keeping references stable across the entire project.
+This keeps references stable across different languages and applications while
+allowing each entity to provide multiple localizations.
 
 Example:
 
 ```json
 {
-  "id": 12345,
+  "id": "AV-Wyrm-Firespitter-R11-01",
   "translations": {
-    "en": "Gobbler",
-    "de": "Vielfraß"
+    "en": "Example English Name",
+    "de": "Example German Name"
   }
 }
-```
-
----
-
-## 💙 Using the Data
-
-Everyone is welcome to use the data provided in this repository for their own Wizard101 projects.
-
-Whether you're building a website, Discord bot, desktop application, API, or any other community tool, feel free to use this dataset.
-
-If you improve or expand the data, contributions back to the repository are always appreciated so the entire community can benefit.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-The recommended way to contribute is through **RavenDex**, which can generate contribution files for newly identified game entities.
-
-Simply attach the generated file to a new GitHub Issue in this repository.
-
-You can also submit corrections or improvements manually through Issues or Pull Requests.
-
----
-
-## 🚀 Future Plans
-
-Planned additions include:
-
-- Item metadata
-- Community-verified drop rates
-- Boss metadata
-- Quest references
-- World and zone relationships
-- Search metadata
-- Additional localizations
-
----
-
-## 📄 License
-
-This repository contains community-maintained game metadata intended for use by the Wizard101 community.
-
-It does **not** contain copyrighted game assets.
