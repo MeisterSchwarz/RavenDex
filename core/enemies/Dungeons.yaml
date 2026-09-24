@@ -56,3 +56,23 @@ G14-HS-Ophidian_Element:
 
 G14-HS-Ophidian_Spirit:
   affinities: {}
+
+G14-SB-SheepMonk_Body:
+  affinities:
+    myth: 20
+    storm: -20
+
+G14-SB-SheepMonk_Boss:
+  affinities:
+    myth: 30
+    storm: 60
+
+G14-SB-SheepMonk_Mind:
+  affinities:
+    ice: 20
+    fire: -20
+
+G14-SB-SheepMonk_Spirit:
+  affinities:
+    fire: 20
+    ice: -20
