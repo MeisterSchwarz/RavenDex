@@ -75,6 +75,9 @@
     "Avalon/Interiors/AV_Z10_CptnChamber": {},
     "Avalon/Interiors/AV_Z10_TombOfArtorius_Ruined": {},
     "Avalon/Interiors/AV_Z12_TombOfArtorius": {},
-    "Avalon/Interiors/AV_Z13_CrystalCave_Int": {}
+    "Avalon/Interiors/AV_Z13_CrystalCave_Int": {},
+    "Avalon/Interiors/PageEvent/AV_BossRoom": {},
+    "Avalon/Interiors/PageEvent/AV_LandingZone": {},
+    "Avalon/Interiors/PageEvent/AV_TrashMobs": {}
   }
 }
