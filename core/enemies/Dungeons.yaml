@@ -6,14 +6,12 @@ G14-DM-Ghoul_Boss:
     life: 30
     myth: -30
     storm: 15
-
 G14-DM-Werewolf:
   affinities:
     myth: 20
     life: 20
     death: 20
     balance: -40
-
 G14-DM-Werewolf_Boss:
   affinities:
     fire: 30
@@ -26,52 +24,38 @@ G14-DM-Wraith:
     ice: -80
 G14-HS-Ammit:
   affinities: {}
-
 G14-HS-Apep_Boss:
   affinities: {}
-
 G14-HS-Ifzt:
   affinities: {}
-
 G14-HS-Krok_Condemned:
   affinities: {}
-
 G14-HS-Krok_Death:
   affinities: {}
-
 G14-HS-Krok_Life:
   affinities: {}
-
 G14-HS-KusBhid:
   affinities: {}
-
 G14-HS-MohLharz:
   affinities: {}
-
 G14-HS-Mummy_Ifzt:
   affinities: {}
-
 G14-HS-Ophidian_Element:
   affinities: {}
-
 G14-HS-Ophidian_Spirit:
   affinities: {}
-
 G14-SB-SheepMonk_Body:
   affinities:
     myth: 20
     storm: -20
-
 G14-SB-SheepMonk_Boss:
   affinities:
     myth: 30
     storm: 60
-
 G14-SB-SheepMonk_Mind:
   affinities:
     ice: 20
     fire: -20
-
 G14-SB-SheepMonk_Spirit:
   affinities:
     fire: 20

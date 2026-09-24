@@ -1,0 +1,21 @@
+
+AV-DogKnight-Harlequin-R11-01: {},
+AV-Giant-Fomori-PageEvent:
+  affinities:
+    storm: 35
+    death: 35
+    myth: -40
+AV-Giant-Fomori-R11-01: 
+  affinities:
+    storm: 35
+    death: 35
+    myth: -40
+AV-Goblin-Night-R11-01: {},
+AV-Knight-Redthorn-R11-01: {},
+AV-Ogre-R11-01: {},
+Student-Myth-PageEvent:
+  affinities:
+    any: -12
+    life: -28
+    death: -32
+

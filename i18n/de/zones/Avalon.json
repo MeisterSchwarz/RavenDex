@@ -74,5 +74,8 @@
   "Avalon/Interiors/AV_Z10_CptnChamber": ["Katakomben", "Kammer des Blutmeisters"],
   "Avalon/Interiors/AV_Z10_TombOfArtorius_Ruined": ["Katakomben", "Grabmal des Königs"],
   "Avalon/Interiors/AV_Z12_TombOfArtorius": ["Geister-Avalon", "Sir Malory"],
-  "Avalon/Interiors/AV_Z13_CrystalCave_Int": ["Festung von Ganelon", "Drachenhöhle"]
+  "Avalon/Interiors/AV_Z13_CrystalCave_Int": ["Festung von Ganelon", "Drachenhöhle"],
+  "Avalon/Interiors/PageEvent/AV_BossRoom": ["Dr. Dees Mythosspiegel", "Quenja Märchenbruch"],
+  "Avalon/Interiors/PageEvent/AV_LandingZone": "Dr. Dees Mythosspiegel",
+  "Avalon/Interiors/PageEvent/AV_TrashMobs": ["Dr. Dees Mythosspiegel", "Geheimnisvoller Turm"]
 }

@@ -1,0 +1,19 @@
+Samoorai-2-Ghost-Elite-L42:
+  affinities:
+    fire: 40
+    ice: -40
+Samoorai-Ronin-2-Ghost-L39:
+  affinities: 
+    storm: 40
+    myth: -40
+Samoorai-Ronin-2-Ghost--PageEvent:
+  affinities: 
+    life: 40
+    death: -40
+Skeleton-Silver-L38:
+  affinities:
+    life: 40
+    death: -40
+Student-Death-PageEvent:
+  affinities:
+    death: -32
