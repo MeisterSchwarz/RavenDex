@@ -7,6 +7,18 @@ G14-DM-Ghoul_Boss:
     myth: -30
     storm: 15
 
+G14-DM-Werewolf:
+  affinities:
+    myth: 20
+    life: 20
+    death: 20
+    balance: -40
+
+G14-DM-Werewolf_Boss:
+  affinities:
+    fire: 30
+    death: 30
+    life: -80
 G14-DM-Wraith:
   affinities: 
     fire: 30
