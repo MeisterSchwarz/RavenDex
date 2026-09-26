@@ -1,6 +1,9 @@
 {
   "Krokotopia/Interiors/KT_HallofDoors": "Halle der Türen",
   "Krokotopia/Interiors/KT_Library": "Bibliothek von Krokotopia",
+  "Krokotopia/Interiors/KT_PageEvent_BossRoom": ["Dr. Dees Eisspiegel", "Tinchen Krötenkopf"],
+  "Krokotopia/Interiors/KT_PageEvent_LandingRoom": "Dr. Dees Eisspiegel",
+  "Krokotopia/Interiors/KT_PageEvent_MobRoom": ["Dr. Dees Eisspiegel", "Geheimnisvolle Gruft"],
   "Krokotopia/Interiors/KT_School": ["Krokosphinx", "Schule der Balance"],
   "Krokotopia/Interiors/KT_Shop01": ["Die Oase", "Ringe & Amulette"],
   "Krokotopia/Interiors/KT_Shop02": ["Die Oase", "Robenhändler"],

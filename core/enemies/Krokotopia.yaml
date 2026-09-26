@@ -1,0 +1,21 @@
+KrokBurly-Ice-1-PageEvent: 
+  affinities:
+    ice: -20
+    fire: 20
+KrokBurly-Ice-Ghost-Elite-L04: {}
+KrokBurly-Ice-L03-1:
+  affinities:
+    ice: -20
+    fire: 20
+KrokPharaoh-FireBird-L02: {}
+KrokPharaoh-StormCloth-L03: {}
+KrokSalamander-Fire-L02: {}
+KrokSalamander-Ice-Ghost-L02: {}
+KrokSalamander-Storm-L03: {}
+Spider-Crystal-L16:
+  affinities:
+    fire: 20
+    ice: -20
+Student-Ice-PageEvent:
+  affinities:
+    any: -5

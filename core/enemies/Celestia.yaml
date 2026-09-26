@@ -1,0 +1,9 @@
+CL-Wildclaw-Brown-PageEvent:
+  affinities:
+    fire: 20
+    death: 20
+    life: -40
+CL-Wildclaw-Brown-R9:
+  affinities:
+    fire: -25
+    ice: 25

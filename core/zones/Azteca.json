@@ -10,6 +10,7 @@
     "Azteca/AZ_Z07_TierraDeBrea": {},
     "Azteca/AZ_Z09_AltoAlto": {},
     "Azteca/AZ_Z10_FloatingMountains": {},
+    "Azteca/AZ_Z11_TwinGiants": {},
     "Azteca/Interiors/AZ_Z00_HungryLizard": {},
     "Azteca/Interiors/AZ_Z00_YacatesHouse": {},
     "Azteca/Interiors/AZ_Z01_BlackSunPyramid_Room01": {},
@@ -50,6 +51,9 @@
     "Azteca/Interiors/AZ_Z05_Tower02": {},
     "Azteca/Interiors/AZ_Z06_Cave01": {},
     "Azteca/Interiors/AZ_Z06_Cave02": {},
-    "Azteca/Interiors/AZ_Z06_Clearing01": {}
+    "Azteca/Interiors/AZ_Z06_Clearing01": {},
+    "Azteca/Interiors/PageEvent/AZ_BossRoom": {},
+    "Azteca/Interiors/PageEvent/AZ_LandingZone": {},
+    "Azteca/Interiors/PageEvent/AZ_TrashMobs": {}
   }
 }

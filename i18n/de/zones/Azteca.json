@@ -9,6 +9,7 @@
   "Azteca/AZ_Z07_TierraDeBrea": "Tierra De Brea",
   "Azteca/AZ_Z09_AltoAlto": "Alto Alto",
   "Azteca/AZ_Z10_FloatingMountains": "Schwebende Berge",
+  "Azteca/AZ_Z11_TwinGiants": "Zwillingsriesen",
   "Azteca/Interiors/AZ_Z00_HungryLizard": ["Der Zocalo", "Teuch Hungerechs"],
   "Azteca/Interiors/AZ_Z00_YacatesHouse": ["Der Zocalo", "Malakeen Mondtrunken"],
   "Azteca/Interiors/AZ_Z01_BlackSunPyramid_Room01": ["Pyramide d. Schwarzen Sonne", "Untere Kammer (1/4)"],
@@ -49,5 +50,8 @@
   "Azteca/Interiors/AZ_Z05_Tower02": ["Zultun-Dock", "Mazens Nest"],
   "Azteca/Interiors/AZ_Z06_Cave01": ["Wolkenbruch-Wald", "Kanja Giftblumes Höhle"],
   "Azteca/Interiors/AZ_Z06_Cave02": ["Wolkenbruch-Wald", "Höhle des Hungrigen Kaiman"],
-  "Azteca/Interiors/AZ_Z06_Clearing01": ["Wolkenbruch-Wald", "Lichtung"]
+  "Azteca/Interiors/AZ_Z06_Clearing01": ["Wolkenbruch-Wald", "Lichtung"],
+  "Azteca/Interiors/PageEvent/AZ_BossRoom": ["Dr. Dees Feuerspiegel", "Benni Mittagslied"],
+  "Azteca/Interiors/PageEvent/AZ_LandingZone": "Dr. Dees Feuerspiegel",
+  "Azteca/Interiors/PageEvent/AZ_TrashMobs": ["Dr. Dees Feuerspiegel", "Geheimnisvoller Turm"]
 }

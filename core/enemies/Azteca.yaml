@@ -1,0 +1,30 @@
+AZ-Caiman-Guard-A: {}
+AZ-Elemental-Spirit-D: {}
+AZ-Goliath-Crusher-C: 
+  affinities:
+    storm: 40
+    death: 40
+    myth: -40
+AZ-Jaguar-Shaman-D:
+  affinities:
+    fire: -40
+    ice: 40
+    storm: 40
+AZ-Parasaur-drkPriestF-C: {}
+AZ-Parrot-Hunter-H: {}
+AZ-Parrot-Hunter-K: {}
+AZ-Pteranodon-Knight-A-PageEvent:
+  affinities:
+    fire: -40
+    ice: 40
+    storm: 40
+AZ-Shdweave-Warrior-C: {}
+AZ-Shdweave-Warrior-D: {}
+AZ-Shdweave-Warrior-E: {}
+AZ-Toucan-Warrior-A: {}
+Student-Fire-PageEvent:
+  affinities: 
+    ice: -11
+    storm: -21
+    life: -28
+
