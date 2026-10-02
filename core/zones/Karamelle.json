@@ -1,6 +1,7 @@
 {
   "zones": {
     "Karamelle/KM_Z00_HUB": {},
+    "Karamelle/KM_Z01_VonTrapEstate": {},
     "Karamelle/KM_Z02_CandyMountains": {},
     "Karamelle/KM_Z03_GumdropForest": {},
     "Karamelle/KM_Z04_Sweetzburg": {},
@@ -13,6 +14,8 @@
 
     "Karamelle/Interiors/KM_Z00_Glockenspiel_01": {},
 
+    "Karamelle/Interiors/KM_Z01_VonTrapLodge": {},
+    
     "Karamelle/Interiors/KM_Z03_HangryGobblerCave_01": {},
 
     "Karamelle/Interiors/KM_Z04_BonBon": {},

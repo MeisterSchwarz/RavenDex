@@ -1,0 +1,17 @@
+KM_Gummy_Bear_A_01: {}
+KM_Gummy_Bear_D_01: {}
+KM_Gummy_Bear_F_01: {}
+KM_Gummy_Bear_Uber_A_01: {}
+KM_Gummy_Worm_B_01: 
+  affinities:
+    storm: 15
+    ice: 15
+    myth: -50
+    fire: -50
+KM_Gummy_Worm_C_01: 
+  affinities: 
+    fire: 15
+    myth: 15
+    ice: -50
+    storm: -50
+KM_Ram_Candied_A_01: {}

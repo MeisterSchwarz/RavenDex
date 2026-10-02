@@ -1,6 +1,16 @@
 DM_Blob_Shadow_A_02: {}
+DM_Dox_Base_B_01:
+  affinities:
+    life: 30
+    any: -42
+    death: -72
 DM_Human_LabAssistant_A_01: {}
 DM_Human_LabAssistant_A_03: {}
+DM_Khrulhu_Instructor_A_02:
+  affinities: 
+    fire: 30
+    ice: -83
+    any: -53
 DM_Mutant_Darkmoor_A_01:  
   affinities:
     life: 30
