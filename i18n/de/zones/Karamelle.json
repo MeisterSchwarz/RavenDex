@@ -12,8 +12,9 @@
   "Karamelle/KM_Z10_Gobblerton": "Schlunderton",
 
   "Karamelle/Interiors/KM_Z00_Glockenspiel_01": ["Karamellstadt", "Glockenspiel"],
+  "Karamelle/Interiors/KM_Z00_NanasHQ": ["Karamellstadt", "Nanas Hauptquartier"],
   "Karamelle/Interiors/KM_Z01_VonTrapLodge": ["Grabauski-Anwesen", "Grabauski-Hütte"],
-  "Karamelle/Interiors/KM_Z03_HangryGobblerCave_01": ["Gummibonbonwald", "Hungrigwütendster Schlunder"],
+  "Karamelle/Interiors/KM_Z03_HangryGobblerCave_01": ["Gummibonbonwald", "Schlunder-Höhle"],
   "Karamelle/Interiors/KM_Z04_BonBon": ["Süßschloss", "Der Bebenbeschwörer"],
   "Karamelle/Interiors/KM_Z04_GummyPlant": ["Süßschloss", "Gummifabrik"],
   "Karamelle/Interiors/KM_Z04_IceCreamParlor": ["Süßschloss", "Nanas Eisdiele"],

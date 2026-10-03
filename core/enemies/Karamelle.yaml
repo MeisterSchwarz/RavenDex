@@ -1,7 +1,35 @@
+KM_Gobbler_Fat_A_01: 
+  affinities:
+    storm: 5
+    myth: -70
+KM_Gobbler_Skinny_A_01:
+  affinities:
+    life: 10
+    death: -60
+KM_Gobbler_Skinny_A_02: 
+  affinities:
+    fire: -60
+    ice: 10
+KM_Gobbler_Skinny_A_03:
+  affinities:
+    death: 3
+    life: 3
+    myth: 3
+    balance: -60
+KM_Gobbler_SkinnyF_A_01: 
+  affinities:
+    storm: -60
+    myth: 10
 KM_Gummy_Bear_A_01: {}
 KM_Gummy_Bear_D_01: {}
 KM_Gummy_Bear_F_01: {}
 KM_Gummy_Bear_Uber_A_01: {}
+KM_Gummy_Worm_A_01:
+  affinities:
+    myth: -50
+    life: -50
+    storm: 15
+    death: 15
 KM_Gummy_Worm_B_01: 
   affinities:
     storm: 15
@@ -14,4 +42,11 @@ KM_Gummy_Worm_C_01:
     myth: 15
     ice: -50
     storm: -50
-KM_Ram_Candied_A_01: {}
+KM_Marshmallow_Critter_A_01:
+  affinities:
+    ice: 15
+    fire: -50
+KM_Ram_Candied_A_01: 
+  affinities:
+    myth: 15
+    storm: -50
