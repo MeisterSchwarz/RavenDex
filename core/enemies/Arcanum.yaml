@@ -1,1 +1,22 @@
+AR_Wolf_LowPoly_A_01: 
+  affinities:
+    any: -28
+LM_Mimic_Book_B_01:
+  affinities:
+    death: 5
+    life: -73
+LM_Mimic_Book_C_01:
+  affinities:
+    death: 5
+    life: 5
+    myth: 5
+    balance: -53
+LM_Mimic_Book_C_02:
+  affinities:
+    ice: 15
+    fire: -53
+LM_Mimic_Book_D_01:
+  affinities:
+    fire: 15
+    ice: -53
 KM_Mimic_ChestMusic_A_01: {}

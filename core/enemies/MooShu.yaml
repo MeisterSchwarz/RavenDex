@@ -1,3 +1,17 @@
+NV_Dog_Bankhar_A_01:
+  affinities:
+    life: 14
+    any: -36
+NV_Dog_Bankhar_A_02:
+  affinities:
+    life: 14
+    myth: 14
+    death: 14
+    fire: -36
+    ice: -36
+    storm: -36
+    balance: -36
+    shadow: -36
 Samoorai-2-Ghost-Elite-L42:
   affinities:
     fire: 40

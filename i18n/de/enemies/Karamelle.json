@@ -1,5 +1,11 @@
 {
+    "KM_Brudel_Apple_B_01": "Grüner Apfel-Brudel",
+    "KM_Cat_WarriorF_F_01": "Copy Qhat",
+    "KM_Cat_WarriorF_G_01": "Elementar-Kopie Qhat",
+    "KM_Cat_WarriorF_H_01": "Geist-Kopie Qhat",
+    "KM_Gnome_Witch_A_01": "Gerhart",
     "KM_Gobbler_Fat_A_01": "Hungrigwütendster Schlunder",
+    "KM_Gobbler_Fruit_A_01": "Kirschen-Schlunder",
     "KM_Gobbler_Skinny_A_01": "Hungrigwütender Schlunder",
     "KM_Gobbler_Skinny_A_02": "Hungrigwütender Schlunder",
     "KM_Gobbler_Skinny_A_03": "Hungrigwütender Schlunder",
@@ -8,9 +14,17 @@
     "KM_Gummy_Bear_D_01": "Zazzelbeere-Bär",
     "KM_Gummy_Bear_F_01": "Winterfrisch-Bär",
     "KM_Gummy_Bear_Uber_A_01": "Überlegener Bär",
+    "KM_Gummy_BunnyUber_A_01": "Der Bundozer",
     "KM_Gummy_Worm_A_01": "Gummiwurm",
     "KM_Gummy_Worm_B_01": "Gummiwurm",
     "KM_Gummy_Worm_C_01": "Gummiwurm",
+    "KM_Hamster_Hazmatt_A_02": "Hazmat-Hamster",
+    "KM_Hamster_ImperfectF_A_02": "Nana",
     "KM_Marshmallow_Critter_A_01": "Marshmännchen",
-    "KM_Ram_Candied_A_01": "Kandierter Widder"
+    "KM_Mole_Miner_C_01": "Saurer Hans",
+    "KM_Mole_Thief_A_01": "Nibbelungendieb",
+    "KM_Player_Cabal_A_01": "Kabalsoldat",
+    "KM_Ram_Candied_A_01": "Kandierter Widder",
+    "KM_Troll_Sweets_B_01": "Roter Samttroll",
+    "KM_Troll_Sweets_C_01": "Kaisertroll"
 }

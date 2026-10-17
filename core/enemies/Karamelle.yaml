@@ -1,3 +1,24 @@
+KM_Brudel_Apple_B_01: {}
+KM_Cat_WarriorF_F_01: {}
+KM_Cat_WarriorF_G_01: {}
+KM_Cat_WarriorF_H_01: {}
+KM_Gnome_Witch_A_01:
+  affinities:
+    myth: 3
+    death: 3
+    life: 3
+    balance: -60
+KM_Gnome_Worker_A_02:
+  affinities:
+    myth: 5
+    death: 5
+    life: 5
+    balance: -50
+KM_Gnome_Worker_B_02:
+  affinities: 
+    storm: 15
+    myth: -50
+KM_Gobbler_Fruit_A_01: {}
 KM_Gobbler_Fat_A_01: 
   affinities:
     storm: 5
@@ -24,6 +45,7 @@ KM_Gummy_Bear_A_01: {}
 KM_Gummy_Bear_D_01: {}
 KM_Gummy_Bear_F_01: {}
 KM_Gummy_Bear_Uber_A_01: {}
+KM_Gummy_BunnyUber_A_01: {}
 KM_Gummy_Worm_A_01:
   affinities:
     myth: -50
@@ -42,11 +64,20 @@ KM_Gummy_Worm_C_01:
     myth: 15
     ice: -50
     storm: -50
+KM_Hamster_Hazmatt_A_02: {}
+KM_Hamster_ImperfectF_A_02:
+  affinities:
+    
 KM_Marshmallow_Critter_A_01:
   affinities:
     ice: 15
     fire: -50
+KM_Mole_Miner_C_01: {}
+KM_Mole_Thief_A_01: {}
+KM_Player_Cabal_A_01: {}
 KM_Ram_Candied_A_01: 
   affinities:
     myth: 15
     storm: -50
+KM_Troll_Sweets_B_01: {}
+KM_Troll_Sweets_C_01: {}

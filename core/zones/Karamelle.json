@@ -12,8 +12,11 @@
     "Karamelle/KM_Z09_CandyCornFarm": {},
     "Karamelle/KM_Z10_Gobblerton": {},
 
+    "Karamelle/Interiors/KM_Z00_CavityPassage": {},
+    "Karamelle/Interiors/KM_Z00_CavityDining": {},
     "Karamelle/Interiors/KM_Z00_Glockenspiel_01": {},
     "Karamelle/Interiors/KM_Z00_NanasHQ": {},
+    "Karamelle/Interiors/KM_Z00_TheCavity": {},
     "Karamelle/Interiors/KM_Z01_VonTrapLodge": {},
 
     "Karamelle/Interiors/KM_Z03_HangryGobblerCave_01": {},
@@ -30,6 +33,7 @@
     "Karamelle/Interiors/KM_Z06_MiningTunnel_A": {},
     "Karamelle/Interiors/KM_Z06_MiningTunnel_B": {},
 
+    "Karamelle/Interiors/KM_Z07_CandyBar": {},
     "Karamelle/Interiors/KM_Z07_CupcakeFactory": {},
     "Karamelle/Interiors/KM_Z07_VanasVarieties": {},
 
