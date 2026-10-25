@@ -10,6 +10,30 @@ NV_Chicken_Miner_A_01:
   affinities:
     storm: 30
     any: -20
+NV_Dog_AberrantDogofWar_A_01:
+  affinities:
+    any: -43
+NV_Dog_AberrantDogofWar_A_02:
+  affinities:
+    any: -36
+NV_Dog_AberrantNavy_A_01:
+  affinities:
+    any: -36
+NV_Dog_AberrantNavy_A_02:
+  affinities:
+    any: -32
+NV_Dog_NavyOfficer_A_01:
+  affinities:
+    fire: 6
+    any: -44
+NV_Dog_NavyOfficer_A_02:
+  affinities:
+    myth: 21
+    any: -29
+NV_Dog_NavyOfficer_A_03:
+  affinities:
+    life: 14
+    any: -36
 NV_Dog_DogofWarF_A_02:
   affinities:
     myth: 18
@@ -21,6 +45,16 @@ NV_Dog_DogofWar_B_01:
   affinities:
     life: 5
     any: -45
+NV_Dog_RoyalGuard_A_01:
+  affinities:
+    myth: 14
+    death: 14
+    life: 14
+    any: -36
+NV_Dog_RoyalGuard_A_02:
+  affinities:
+    storm: 14
+    any: -36
 NV_Fish_CrazyLegs_B_01:
   affinities:
     storm: 14
@@ -29,6 +63,14 @@ NV_Fish_CrazyLegs_B_02:
   affinities:
     fire: 7
     any: -43
+NV_Flag_Monster_A_03:
+  affinities:
+    life: 10
+    any: -40
+NV_Flag_Monster_A_04:
+  affinities:
+    life: 10
+    any: -40
 NV_Irks_Base_A_02:
   affinities:
     death: 14
@@ -91,6 +133,16 @@ NV_Monkey_Zombie_A_02:
 NV_Monkey_Zombie_A_03:
   affinities:
     any: -43
+NV_Penguin_Revolutionary_D_01:
+  affinities: {}
+NV_Penguin_Revolutionary_D_02:
+  affinities:
+    myth: 21
+    any: -29
+NV_Penguin_Revolutionary_D_03:
+  affinities:
+    ice: 18
+    any: -32
 NV_Player_Cabal_A_01:
   affinities:
     ice: 18
