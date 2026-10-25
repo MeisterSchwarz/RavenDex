@@ -1,6 +1,16 @@
 {
+    "NV_Cucumber_Base_A_01": "Avatar der Gurken",
     "NV_Dog_Bankhar_A_01": "Bankhar",
     "NV_Dog_Bankhar_A_02": "Bankhar",
+    "NV_Dog_Bankhar_B_01": "Avatar der Hunde",
+    "NV_Elemental_ThunderCloud_A_01": "Avatar des Plötzlichen Geräusches",
+    "NV_Horse_HordeOfficer_A_01": "Goldene Horde-Hauptmann",
+    "NV_Horse_HordeOfficer_A_02": "Goldene Horde-Oberst",
+    "NV_Horse_HordeSoldier_A_01": "Goldene Horde-Soldat",
+    "NV_Horse_HordeSoldier_A_02": "Goldene Horde-Soldat",
+    "NV_Horse_HordeSoldier_A_03": "Goldene Horde-Soldat",
+    "NV_Water_BallElemental_A_01": "Elementar des Wassers",
+    "NV_Zheng_Base_A_01": "Zheng",
     "Samoorai-2-Ghost-Elite-L42": "Entehrter Ronin",
     "Samoorai-Ronin-2-Ghost-L39": "Verfluchter Ronin",
     "Samoorai-Ronin-2-Ghost--PageEvent": "Zauberformel-Ronin",
@@ -8,5 +18,3 @@
     "Student-Death-PageEvent": "Derick Drachenstaub"
 
 }
-
-

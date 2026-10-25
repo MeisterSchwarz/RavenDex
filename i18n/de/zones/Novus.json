@@ -1,5 +1,7 @@
 {
+  "Novus/Interiors/NV_Z01_DuelingTent": ["Conatus", "Duellzelt"],
   "Novus/Interiors/NV_Z03_ContestedShard": ["Puerto Nuovo", "Luftschiff"],
+  "Novus/Interiors/NV_Z03_CrazyStairs": ["Puerto Nuovo", "Verrückte Treppen"],
   "Novus/Interiors/NV_Z03_FortressInt": ["Puerto Nuovo", "Monquista-Festung"],
   "Novus/Interiors/NV_Z03_SabotuerCave": ["Puerto Nuovo", "Saboteurhöhle"],
   "Novus/Interiors/NV_Z03_Safehouse": ["Puerto Nuovo", "Don Manzana"],
@@ -10,6 +12,9 @@
   "Novus/Interiors/NV_Z04_I07_Ship": ["Neu-Vicorgia", "Schokoladenschiff"],
   "Novus/Interiors/NV_Z05_BasseSteele": ["La Ville Rose", "Le Nouveau Basstille"],
   "Novus/Interiors/NV_Z05_CabalBase": ["La Ville Rose", "Kabalen-Basis"],
+  "Novus/Interiors/NV_Z05_CafeMelee": ["La Ville Rose", "Café Melee"],
+  "Novus/Interiors/NV_Z05_MatheusHouse": ["La Ville Rose", "Matheus' Haus"],
+  "Novus/Interiors/NV_Z05_MathildasHouse": ["La Ville Rose", "Mathildas Haus"],
   "Novus/Interiors/NV_Z05_MaxineOffice": ["La Ville Rose", "Maxi Rockhoppiere"],
   "Novus/Interiors/NV_Z05_NegotiationChamber": ["La Ville Rose", "Verhandlungskammer"],
   "Novus/Interiors/NV_Z06_ManticoresMadness": ["Nukleus-Galerie", "Der Wahnsinn des Mantikor"],

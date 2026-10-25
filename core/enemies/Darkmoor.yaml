@@ -4,6 +4,16 @@ DM_Dox_Base_B_01:
     life: 30
     any: -42
     death: -72
+DM_Dragon_BalaurHead_A_03:
+  affinities:
+    ice: 22
+    fire: -74
+    any: -44
+DM_Dragon_BalaurHead_A_04:
+  affinities:
+    fire: 38
+    ice: -75
+    any: -45
 DM_Human_LabAssistant_A_01: {}
 DM_Human_LabAssistant_A_03: {}
 DM_Khrulhu_Instructor_A_02:

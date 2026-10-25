@@ -1,3 +1,7 @@
+NV_Cucumber_Base_A_01:
+  affinities:
+    death: 6
+    any: -44
 NV_Dog_Bankhar_A_01:
   affinities:
     life: 14
@@ -7,11 +11,41 @@ NV_Dog_Bankhar_A_02:
     life: 14
     myth: 14
     death: 14
-    fire: -36
-    ice: -36
-    storm: -36
-    balance: -36
-    shadow: -36
+    any: -36
+NV_Dog_Bankhar_B_01:
+  affinities:
+    life: 14
+    any: -36
+NV_Elemental_ThunderCloud_A_01:
+  affinities:
+    any: -36
+NV_Horse_HordeOfficer_A_01:
+  affinities:
+    death: 0
+    any: -50
+NV_Horse_HordeOfficer_A_02:
+  affinities:
+    any: -40
+NV_Horse_HordeSoldier_A_01:
+  affinities:
+    storm: 14
+    any: -36
+NV_Horse_HordeSoldier_A_02:
+  affinities:
+    ice: 18
+    any: -32
+NV_Horse_HordeSoldier_A_03:
+  affinities:
+    myth: 21
+    any: -29
+NV_Water_BallElemental_A_01:
+  affinities:
+    myth: 18
+    any: -32
+NV_Zheng_Base_A_01:
+  affinities:
+    death: 0
+    any: -50
 Samoorai-2-Ghost-Elite-L42:
   affinities:
     fire: 40

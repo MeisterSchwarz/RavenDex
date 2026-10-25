@@ -1,0 +1,113 @@
+NV_BananaSpider_Base_A_01: 
+  affinities:
+    death: 14
+    any: -36
+NV_Cat_Qhat_A_01:
+  affinities:
+    fire: 21
+    any: -29
+NV_Chicken_Miner_A_01:
+  affinities:
+    storm: 30
+    any: -20
+NV_Dog_DogofWarF_A_02:
+  affinities:
+    myth: 18
+    any: -32
+NV_Dog_DogofWar_A_01:
+  affinities:
+    any: -35
+NV_Dog_DogofWar_B_01:
+  affinities:
+    life: 5
+    any: -45
+NV_Fish_CrazyLegs_B_01:
+  affinities:
+    storm: 14
+    any: -36
+NV_Fish_CrazyLegs_B_02:
+  affinities:
+    fire: 7
+    any: -43
+NV_Irks_Base_A_02:
+  affinities:
+    death: 14
+    life: 14
+    myth: 14
+    any: -36
+NV_Irks_Base_A_04:
+  affinities:
+    storm: 14
+    any: -36
+NV_Irk_Base_D_01:
+  affinities: 
+    storm: 14
+    any: -36
+NV_Irk_Base_D_02:
+  affinities:
+    fire: 7
+    any: -43
+NV_Irks_Super_A_03:
+  affinities:
+    life: -58
+    death: 30
+    any: -28
+NV_Monkey_Monquistador_A_03:
+  affinities:
+    death: 14
+    life: 14
+    myth: 14
+    any: -36
+NV_Monkey_Monquistador_A_04:
+  affinities:
+    death: 10
+    life: 10
+    myth: 10
+    any: -40
+NV_Monkey_Monquistador_A_05:
+  affinities:
+    ice: 18
+    any: -32
+NV_Monkey_SoldierBoss_A_01:
+  affinities:
+    storm: 5
+    any: -45
+NV_Monkey_SoldierBoss_B_01:
+  affinities:
+    life: 14
+    any: -36
+NV_Monkey_SoldierBoss_B_02:
+  affinities:
+    fire: 7
+    any: -43
+NV_Monkey_Zombie_A_01:
+  affinities:
+    ice: 18
+    any: -32
+NV_Monkey_Zombie_A_02:
+  affinities:
+    life: 14
+    any: -36
+NV_Monkey_Zombie_A_03:
+  affinities:
+    any: -43
+NV_Player_Cabal_A_01:
+  affinities:
+    ice: 18
+    any: -32
+NV_Player_Cabal_A_02:
+  affinities:
+    ice: 18
+    any: -32
+NV_Player_Cabal_B_01:
+  affinities:
+    death: 5
+    myth: 5
+    life: 5
+    any: -45
+NV_Tessellate_Base_A_01:
+  affinities:
+    fire: 30
+    any: -29
+    death: -59
+    ice: -59

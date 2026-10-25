@@ -1,5 +1,7 @@
 {
-  "MooShu/Interiors/MS_CAT_Monastery": ["Katmandu", "Goldene Horde-Oberst"],
+  "MooShu/Interiors/MS_CAT_CaveOfTerror": ["Katmandu", "Höhle des Terrors"],
+  "MooShu/Interiors/MS_CAT_Monastery": ["Katmandu", "Kloster"],
+  "MooShu/Interiors/MS_CAT_SacredYarnTemple": ["Katmandu", "Tempel des Gesegneten Garns"],
   "MooShu/Interiors/MS_Emperor_Palace": ["Jadepalast", "Thronsaal"],
   "MooShu/Interiors/MS_GardenDojo_T1": ["Jadepalast", "Mika Skarka"],
   "MooShu/Interiors/MS_MaestroEvent/MS_Z00_LandingZone": "Telegraphenbox",
