@@ -15,12 +15,15 @@
     "Wallaru/Interiors/WL_Z01_I06_SupplyStore": {},
     "Wallaru/Interiors/WL_Z01_I07_GroceryStore": {},
     "Wallaru/Interiors/WL_Z01_I08_BoomerangDepot": {},
+    "Wallaru/Interiors/WL_Z01_I09_DundarasAlley": {},
     "Wallaru/Interiors/WL_Z01_I10_DundarasTunnel": {},
 
     "Wallaru/Interiors/WL_Z02_I02_RebelMine": {},
     "Wallaru/Interiors/WL_Z02_I03_CannonLedge": {},
+    "Wallaru/Interiors/WL_Z02_I04_DistressCave": {},
     "Wallaru/Interiors/WL_Z02_I05_RidgeCave": {},
     "Wallaru/Interiors/WL_Z02_I07_OutbackRidge": {},
+    "Wallaru/Interiors/WL_Z02_I08_DreamscapeRage": {},
     "Wallaru/Interiors/WL_Z02_I10_OutbackDungeon_Easy": {},
 
     "Wallaru/Interiors/WL_Z03_I01_KangaGuruShrine": {},
@@ -29,7 +32,9 @@
     "Wallaru/Interiors/WL_Z04_I02_JudgeVegDream": {},
     "Wallaru/Interiors/WL_Z04_I04_FurryosasDream": {},
     "Wallaru/Interiors/WL_Z04_I05_FreddiesDomain": {},
+    "Wallaru/Interiors/WL_Z04_I06_Dreamspeak": {},
 
+    "Wallaru/Interiors/WL_Z05_DreamscapeDespair": {},
     "Wallaru/Interiors/WL_Z05_DroverCave": {},
     "Wallaru/Interiors/WL_Z05_I01_ColliesDen": {},
     "Wallaru/Interiors/WL_Z05_I02_BunyipWarrens": {},
@@ -47,11 +52,13 @@
     "Wallaru/Interiors/WL_Z07_Clearing_01": {},
     "Wallaru/Interiors/WL_Z07_Clearing_02": {},
     "Wallaru/Interiors/WL_Z07_Clearing_03": {},
+    "Wallaru/Interiors/WL_Z07_Dreamscape": {},
     "Wallaru/Interiors/WL_Z07_Gatehouse_01": {},
     "Wallaru/Interiors/WL_Z07_PinkLake": {},
 
     "Wallaru/Interiors/WL_Z08_I01_SolidGoldLounge": {},
     "Wallaru/Interiors/WL_Z08_I02_LagoonPipeline": {},
-    "Wallaru/Interiors/WL_Z08_I03_HotelRoom": {}
+    "Wallaru/Interiors/WL_Z08_I03_HotelRoom": {},
+    "Wallaru/Interiors/WL_Z08_I05_Dreamscape": {}
   }
 }

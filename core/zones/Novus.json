@@ -21,6 +21,7 @@
     "Novus/Interiors/NV_Z04_I04_IrkPen": {},
     "Novus/Interiors/NV_Z04_I06_Mine": {},
     "Novus/Interiors/NV_Z04_I07_Ship": {},
+    "Novus/Interiors/NV_Z04_InvadingFleet": {},
     "Novus/Interiors/NV_Z04_Splinter": {},
     "Novus/Interiors/NV_Z04_Tower01": {},
     "Novus/Interiors/NV_Z04_Tower02": {},
@@ -37,6 +38,7 @@
 
     "Novus/Interiors/NV_Z06_ManticoresMadness": {},
     "Novus/Interiors/NV_Z06_ManticoresPlan": {},
-    "Novus/Interiors/NV_Z06_NucleusDuelingSpace": {}
+    "Novus/Interiors/NV_Z06_NucleusDuelingSpace": {},
+    "Novus/NV_Z08_DaseinEstate": {}
   }
 }

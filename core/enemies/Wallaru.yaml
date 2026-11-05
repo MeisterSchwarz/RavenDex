@@ -1,0 +1,149 @@
+WL_BeardDragon_Base_C_01:
+  affinities:
+    fire: 15
+    ice: -28
+    any: -13
+WL_Devil_Ghost_A_01:
+  affinities:
+    fire: 20
+    any: -24
+    ice: -44
+WL_Dingo_BaseF_A_01:
+  affinities:
+    myth: 30
+    any: -24
+    storm: -54
+WL_Dingo_BaseF_B_01:
+  affinities:
+    ice: 15
+    any: -9
+    fire: -24
+WL_Dingo_Base_A_01:
+  affinities:
+    fire: 15
+    ice: -28
+    any: -13
+WL_Dingo_Base_B_01:
+  affinities:
+    fire: 15
+    ice: -28
+    any: -13
+WL_Dingo_Base_C_01:
+  affinities:
+    fire: 15
+    ice: -28
+    any: -13
+WL_Dingo_Base_D_01:
+  affinities:
+    ice: 15
+    any: -9
+    fire: -24
+WL_Dromel_Fighter_A_01:
+  affinities:
+    myth: 20
+    life: 20
+    death: 20
+    any: -21
+    balance: -41
+WL_Frog_Humangoish_C_01:
+  affinities:
+    storm: 30
+    myth: -71
+    any: -41
+WL_Irk_Base_A_01:
+  myth: 30
+  any: -24
+  storm: -54
+WL_Irk_Base_F_01:
+  affinities:
+    fire: -57
+    ice: 30
+    any: -27
+WL_Irk_Base_G_01:
+  affinities:
+    storm: 30
+    any: -41
+    myth: -71
+WL_Irk_Base_H_01:
+  affinities:
+    death: -72
+    life: 30
+    any: -42
+WL_Irk_Base_I_01:
+  affinities:
+    fire: 30
+    any: -44
+    ice: -74
+WL_Kangaroo_Drover_D_01:
+  affinities:
+    life: -28
+    death: 15
+    any: -13
+WL_Kangaroo_Drover_D_02:
+  affinities:
+    balance: -28
+    any: -13
+    life: 15
+    myth: 15
+    death: 15
+WL_KoalaRider_BaseF_B_01:
+  affinities:
+    myth: 30
+    storm: -57
+    any: -27
+"WL_KoalaRider_CapF_A_01":
+  affinities:
+    fire: 15
+    ice: -30
+    any: -15
+WL_Koala_Drover_B_01:
+  affinities:
+    storm: 30
+    any: -34
+    myth: -64
+WL_Koala_Giant_A_01:
+  affinities:
+    storm: 15
+    myth: -27
+    any: -12
+WL_Spider_WarriorMage_C_01:
+  affinities:
+    myth: 15
+    life: 15
+    death: 15
+    any: -13
+    balance: -28
+WL_Spider_WarriorMage_C_02:
+  affinities:
+    death: 15
+    any: -13
+    life: -28
+WL_Spider_WarriorMage_C_03:
+  affinities:
+    fire: 30
+    ice: -63
+    any: -33
+WL_Spider_WarriorMage_C_04:
+  affinities:
+    myth: 20
+    any: -15
+    storm: -35
+WL_Spider_WarriorMage_C_05:
+  affinities:
+    ice: 20
+    fire: -36
+    any: -16
+WL_Toad_EvilClaw_B_01:
+  myth: 30
+  any: -24
+  storm: -54
+WL_Toad_EvilClaw_B_03:
+  affinities:
+    myth: 30
+    any: -24
+    storm: -54
+WL_Wallaby_Punk_A_01:
+  affinities:
+    life: 15
+    death: -27
+    any: -12

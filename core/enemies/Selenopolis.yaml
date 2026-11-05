@@ -1,0 +1,26 @@
+KT_SE_Ammit_Base_A_07: {}
+KT_SE_Baboon_Thoth_A_01: {}
+KT_SE_Beetle_Scarab_C_01: {}
+KT_SE_Chameleon_Split_A_01: {}
+KT_SE_Duck_Adventurer_A_01: {}
+KT_SE_Duck_Librarian_A_01: {}
+KT_SE_Duck_Librarian_B_01: {}
+KT_SE_Hamster_ImperfectF_A_01: {}
+KT_SE_Jackal_Anubis_A_01: {}
+KT_SE_Jackal_Anubis_A_03: {}
+KT_SE_Krok_Warrior_E_01: {}
+KT_SE_Mander_MummyF_A_01: {}
+KT_SE_Moose_Fighter_A_01: {}
+KT_SE_Player_DramaGhost_A_01:
+  affinities:
+    storm: 15
+    any: -5
+    myth: -20
+KT_SE_Player_DramaGhost_C_02:
+  affinities:
+    life: 17
+    death: -20
+KT_SE_Player_DramaGhost_C_03: {}
+KT_SE_Player_DramaGhost_E_02: {}
+KT_SE_Spider_WarriorMage_B_01: {}
+

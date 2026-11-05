@@ -6,10 +6,11 @@
   "Novus/Interiors/NV_Z03_SabotuerCave": ["Puerto Nuovo", "Saboteurhöhle"],
   "Novus/Interiors/NV_Z03_Safehouse": ["Puerto Nuovo", "Don Manzana"],
   "Novus/Interiors/NV_Z04_I01_GeneralQuarters": ["Neu-Vicorgia", "Gemächer des Generals"],
-  "Novus/Interiors/NV_Z04_I02_GovernorsMansion": ["Neu-Vicorgia", "Haus des Gouverneurs"],
+  "Novus/Interiors/NV_Z04_I02_GovernorsMansion": ["Neu-Vicorgia", "Haus des Präsidenten"],
   "Novus/Interiors/NV_Z04_I04_IrkPen": ["Neu-Vicorgia", "Ärgergehege"],
   "Novus/Interiors/NV_Z04_I06_Mine": ["Neu-Vicorgia", "Mine"],
   "Novus/Interiors/NV_Z04_I07_Ship": ["Neu-Vicorgia", "Schokoladenschiff"],
+  "Novus/Interiors/NV_Z04_InvadingFleet": ["Neu-Vicorgia", "Einfallende Flotte"],
   "Novus/Interiors/NV_Z04_Splinter": ["Neu-Vicorgia", "Splitterland"],
   "Novus/Interiors/NV_Z04_Tower01": ["Neu-Vicorgia", "Erster Turm"],
   "Novus/Interiors/NV_Z04_Tower02": ["Neu-Vicorgia", "Zweiter Turm"],
@@ -20,7 +21,7 @@
   "Novus/Interiors/NV_Z05_CafeMelee": ["La Ville Rose", "Café Melee"],
   "Novus/Interiors/NV_Z05_MatheusHouse": ["La Ville Rose", "Matheus' Haus"],
   "Novus/Interiors/NV_Z05_MathildasHouse": ["La Ville Rose", "Mathildas Haus"],
-  "Novus/Interiors/NV_Z05_MaxineOffice": ["La Ville Rose", "Maxi Rockhoppiere"],
+  "Novus/Interiors/NV_Z05_MaxineOffice": ["La Ville Rose", "Maxis Büro"],
   "Novus/Interiors/NV_Z05_NegotiationChamber": ["La Ville Rose", "Verhandlungskammer"],
   "Novus/Interiors/NV_Z06_ManticoresMadness": ["Nukleus-Galerie", "Der Wahnsinn des Mantikor"],
   "Novus/Interiors/NV_Z06_ManticoresPlan": ["Nukleus-Galerie", "Mantikors Plan"],
@@ -31,5 +32,6 @@
   "Novus/NV_Z03_PuertoNuovo_VA": ["Puerto Nuovo", "Tal der Perfektion"],
   "Novus/NV_Z04_NewVicorgia": "Neu-Vicorgia",
   "Novus/NV_Z05_LaVilleRose": "La Ville Rose",
-  "Novus/NV_Z06_NucleusGallery": "Nukleus-Galerie"
+  "Novus/NV_Z06_NucleusGallery": "Nukleus-Galerie",
+  "Novus/NV_Z08_DaseinEstate": "Dasein-Anwesen"
 }

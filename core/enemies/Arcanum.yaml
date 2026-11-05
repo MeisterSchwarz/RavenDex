@@ -20,3 +20,20 @@ LM_Mimic_Book_D_01:
     fire: 15
     ice: -53
 KM_Mimic_ChestMusic_A_01: {}
+WL_Khrulhu_Lincoln_A_01:
+  affinities:
+    ice: 20
+    any: -16
+    fire: -36
+WL_Khrulhu_Nothing_A_01:
+  affinities:
+    myth: 20
+    death: 20
+    life: 20
+    any: -21
+    balance: -41
+WL_Player_DivineParadox_A_01:
+  affinities:
+    life: 20
+    any: -22
+    death: -42
