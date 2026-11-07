@@ -140,7 +140,7 @@ NV_Monkey_Monquistador_B_01:
     storm: 50
     life: 50
     ice: -50
-    death_ 50
+    death: 50
 NV_Monkey_Noble_A_01:
   affinities:
     death: 0
