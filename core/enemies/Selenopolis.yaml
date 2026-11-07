@@ -16,6 +16,20 @@ KT_SE_Deity_Ra_A_01:
 KT_SE_Duck_Adventurer_A_01: {}
 KT_SE_Duck_Librarian_A_01: {}
 KT_SE_Duck_Librarian_B_01: {}
+KT_SE_Elemental_MudBall_A_01:
+  schools: [ice]
+  affinities:
+    ice: -46
+    any: -26
+    fire: 20
+KT_SE_Elemental_MudBall_A_02:
+  schools: [balance]
+  affinities:
+    balance: -43
+    myth: 20
+    death: 20
+    life: 20
+    any: -23
 KT_SE_Hamster_ImperfectF_A_01:
   affinities:
     myth: 15
@@ -52,4 +66,9 @@ KT_SE_Samoorai_Ronin_02:
     any: -11
     myth: -31
 KT_SE_Spider_WarriorMage_B_01: {}
+KT_SE_Treant_Tormented_A_01:
+  affinities:
+    death: 30
+    any: -37
+    life: -67
 
