@@ -22,5 +22,7 @@
     "TC_LightningBats": { "id": 20 },
     "TC_SnowSerpent": { "id": 21 },
     "TC_TimeOfLegend": { "id": 22 },
-    "TC_Tough": { "id": 23 }
+    "TC_Tough": { "id": 23 },
+    "tc_storm_trap": { "school": "storm" },
+    "tc_ice_trap": { "school": "ice" }
 }
