@@ -1,11 +1,27 @@
+KT_SE_Ammit_Base_A_05:
+  schools: [death]
+  affinities:
+    life: 20
+    any: -19
+    death: -39
 KT_SE_Ammit_Base_A_07: {}
 KT_SE_Baboon_Thoth_A_01:
   affinities:
     storm: 30
     any: -39
     myth: -69
-KT_SE_Beetle_Scarab_C_01: {}
-KT_SE_Chameleon_Split_A_01: {}
+KT_SE_Beetle_Scarab_C_01:
+  schools: [death]
+  affinities:
+    life: 15
+    any: -15
+    death: -30
+KT_SE_Chameleon_Split_A_01:
+  schools: [moon, death]
+  affinities:
+    ice: 15
+    any: -10
+    fire: -25
 KT_SE_Deity_Ra_A_01:
   affinities:
     any: -37
@@ -30,6 +46,24 @@ KT_SE_Elemental_MudBall_A_02:
     death: 20
     life: 20
     any: -23
+KT_SE_Gator_Henchman_A_01:
+  schools: [life]
+  affinities:
+    death: 15
+    any: -13
+    life: -28
+KT_SE_Gator_Henchman_A_02:
+  schools: [life, balance]
+  affinities:
+    death: 15
+    any: -13
+    life: -28
+KT_SE_Gator_Henchman_A_03:
+  schools: [life, myth]
+  affinities:
+    death: 15
+    any: -13
+    life: -28
 KT_SE_Hamster_ImperfectF_A_01:
   affinities:
     myth: 15
@@ -37,8 +71,19 @@ KT_SE_Hamster_ImperfectF_A_01:
     storm: -28
 KT_SE_Jackal_Anubis_A_01: {}
 KT_SE_Jackal_Anubis_A_03: {}
+KT_SE_Krok_EmpressF_B_01:
+  schools: [moon]
+  affinities: 
+    fire: 30
+    any: -43
+    ice: -73
 KT_SE_Krok_Warrior_E_01: {}
-KT_SE_Mander_MummyF_A_01: {}
+KT_SE_Mander_MummyF_A_01:
+  schools: [fire, death]
+  affinities:
+    ice: 30
+    any: -27
+    fire: -57
 KT_SE_Moose_Fighter_A_01: {}
 KT_SE_Player_DramaGhost_A_01:
   affinities:
@@ -65,6 +110,12 @@ KT_SE_Samoorai_Ronin_02:
     storm: 15
     any: -11
     myth: -31
+KT_SE_Self_TankMOB_A_02:
+  schools: [shadow, death]
+  affinities:
+    life: 20
+    any: -26
+    death: -46
 KT_SE_Spider_WarriorMage_B_01: {}
 KT_SE_Treant_Tormented_A_01:
   affinities:
