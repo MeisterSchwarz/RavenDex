@@ -16,6 +16,11 @@ KT_SE_Beetle_Scarab_C_01:
     life: 15
     any: -15
     death: -30
+KT_SE_Celestian_Khonsu_A_01:
+  schools: [moon]
+  locations: [490]
+  affinities:
+    any: 0
 KT_SE_Chameleon_Split_A_01:
   schools: [moon, death]
   affinities:

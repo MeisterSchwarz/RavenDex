@@ -1,6 +1,7 @@
 Krokotopia/KT_Selenopolis/Interiors/KT_Z04_Pyramid: {}
 Krokotopia/KT_Selenopolis/Interiors/KT_Z04_SafeHouse: {}
-Krokotopia/KT_Selenopolis/Interiors/KT_Z04_Sanctum: {}
+Krokotopia/KT_Selenopolis/Interiors/KT_Z04_Sanctum:
+  id: 490
 Krokotopia/KT_Selenopolis/Interiors/KT_Z05I01_PrologueHall: {}
 Krokotopia/KT_Selenopolis/Interiors/KT_Z05I02_TheaterOfWar: {}
 Krokotopia/KT_Selenopolis/Interiors/KT_Z05I03_PropDepartment: {}

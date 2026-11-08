@@ -1,7 +1,7 @@
 {
   "Krokotopia/KT_Selenopolis/Interiors/KT_Z04_Pyramid": "Himmelspyramide",
   "Krokotopia/KT_Selenopolis/Interiors/KT_Z04_SafeHouse": "Total Geheimer Unterschlupf",
-  "Krokotopia/KT_Selenopolis/Interiors/KT_Z04_Sanctum": ["Selenopolis", "Khonshu"],
+  "Krokotopia/KT_Selenopolis/Interiors/KT_Z04_Sanctum": "Heiligtum",
   "Krokotopia/KT_Selenopolis/Interiors/KT_Z05I01_PrologueHall": ["Marktplatz der Ideen", "Halle des Vorwortes"],
   "Krokotopia/KT_Selenopolis/Interiors/KT_Z05I02_TheaterOfWar": ["Große Ausstellung", "Kriegstheater"],
   "Krokotopia/KT_Selenopolis/Interiors/KT_Z05I03_PropDepartment": "Marktplatz der Ideen",
