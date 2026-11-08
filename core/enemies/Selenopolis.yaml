@@ -34,12 +34,14 @@ KT_SE_Duck_Librarian_A_01: {}
 KT_SE_Duck_Librarian_B_01: {}
 KT_SE_Elemental_MudBall_A_01:
   schools: [ice]
+  locations: [701]
   affinities:
     ice: -46
     any: -26
     fire: 20
 KT_SE_Elemental_MudBall_A_02:
   schools: [balance]
+  locations: [701]
   affinities:
     balance: -43
     myth: 20
@@ -71,6 +73,7 @@ KT_SE_Hamster_ImperfectF_A_01:
     storm: -28
 KT_SE_Jackal_Anubis_A_01: {}
 KT_SE_Jackal_Anubis_A_03: {}
+KT_SE_Jackal_Anubis_A_04: {}
 KT_SE_Krok_EmpressF_B_01:
   schools: [moon]
   affinities: 
@@ -78,6 +81,32 @@ KT_SE_Krok_EmpressF_B_01:
     any: -43
     ice: -73
 KT_SE_Krok_Warrior_E_01: {}
+KT_SE_Mander_CitizenF_D_01:
+  schools: [fire, death]
+  affinities:
+    ice: 20
+    any: -15
+    fire: -35
+KT_SE_Mander_CitizenF_D_02:
+  schools: [ice, death]
+  affinities:
+    fire: 20
+    any: -29
+    ice: -49
+KT_SE_Mander_CitizenF_D_03:
+  schools: [moon, death]
+  affinities:
+    life: 20
+    any: -23
+    death: -43
+KT_SE_Mander_CitizenF_D_04:
+  schools: [balance, death]
+  affinities:
+    myth: 20
+    life: 20
+    death: 20
+    any: -23
+    balance: -43
 KT_SE_Mander_MummyF_A_01:
   schools: [fire, death]
   affinities:
@@ -122,4 +151,3 @@ KT_SE_Treant_Tormented_A_01:
     death: 30
     any: -37
     life: -67
-
