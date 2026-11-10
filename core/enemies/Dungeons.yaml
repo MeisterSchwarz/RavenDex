@@ -1,3 +1,17 @@
+G14-DM-ArmoredVonShane_Boss:
+  schools: [star]
+  affinities:
+    storm: -50
+    death: -50
+    life: 20
+    myth: 20
+G14-DM-DeathKnight_Boss:
+  schools: [star]
+  affinities:
+    fire: 15
+    ice: 15
+    myth: 30
+    storm: -30
 G14-DM-Ghoul_Boss:
   affinities: 
     death: -30
@@ -6,6 +20,30 @@ G14-DM-Ghoul_Boss:
     life: 30
     myth: -30
     storm: 15
+G14-DM-Malistaire_Boss:
+  schools: [death]
+  affinities:
+    ice: 20
+    myth: 20
+    balance: 20
+    life: 40
+    storm: -20
+    death: -60
+G14-DM-ShaneVonShane_Boss:
+  schools: [death]
+  locations: [505]
+  affinities:
+    life: 20
+    death: -50
+G14-DM-Tatyana_Boss:
+  schools: [sun]
+  affinities:
+    storm: 15
+    ice: 30
+    death: 30
+    fire: -50
+    myth: -30
+    life: -30
 G14-DM-Werewolf:
   affinities:
     myth: 20

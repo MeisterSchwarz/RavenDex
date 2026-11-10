@@ -1,5 +1,6 @@
 {
     "G14_DM/DM_Z01_CastleDarkmoor": "Schloss Düstermoor",
+    "G14_DM/DM_Z05_Library": ["Obergeschoss", "Bibliothek"],
     "G14_DM/DM_Z06_Bridge": "Friedhof",
     "G14_DM/DM_Z07_Graveyard": ["Friedhof", "Yevgeny Nachtschleicher"],
     "G14_DM/Interiors/DM_Z08_I01_MausoleumTop": ["Friedhof", "Malistaire der Todtrotzer"],

@@ -1,6 +1,9 @@
-Arcanum/AR_Z01_Hub: {}
-Arcanum/AR_Z02_LowerDecks: {}
-Arcanum/Interiors/AR_Dunes: {}
+Arcanum/AR_Z01_Hub:
+  id: 100
+Arcanum/AR_Z02_LowerDecks:
+  id: 200
+Arcanum/Interiors/AR_Dunes:
+  id: 1
 Arcanum/Interiors/AR_ShadowTricksterLair_01: {}
 Arcanum/Interiors/AR_UnformedWorld: {}
 Arcanum/Interiors/AR_Z01_ArbitersArena: {}
@@ -27,9 +30,12 @@ Arcanum/Interiors/AR_Z01_ShadowSchool: {}
 Arcanum/Interiors/AR_Z01_StormSchool: {}
 Arcanum/Interiors/AR_Z01_SybilsMemory: {}
 Arcanum/Interiors/AR_Z01_TheBridge: {}
-Arcanum/Interiors/AR_Z02_EnergyCorridor: {}
-Arcanum/Interiors/AR_Z02_LumiHostageRoom: {}
-Arcanum/Interiors/AR_Z02_PowerCore: {}
+Arcanum/Interiors/AR_Z02_EnergyCorridor:
+  id: 202
+Arcanum/Interiors/AR_Z02_LumiHostageRoom:
+  id: 203
+Arcanum/Interiors/AR_Z02_PowerCore:
+  id: 201
 Arcanum/Interiors/AR_Z02_WindgineRoom: {}
 Arcanum/Interiors/AR_Z03_ArkCrashCinematic: {}
 Arcanum/Interiors/AR_Z03_ArkShip: {}

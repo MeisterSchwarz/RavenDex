@@ -1,4 +1,6 @@
 G14_DM/DM_Z01_CastleDarkmoor: {}
+G14_DM/DM_Z05_Library:
+  id: 505
 G14_DM/DM_Z06_Bridge: {}
 G14_DM/DM_Z07_Graveyard: {}
 G14_DM/Interiors/DM_Z08_I01_MausoleumTop: {}

@@ -1,6 +1,54 @@
 AR_Wolf_LowPoly_A_01: 
   affinities:
     any: -28
+DM_Bauk_Base_A_01:
+  schools: [death]
+  locations: [201]
+  affinities:
+    life: 15
+    any: -14
+    death: -29
+DM_Dust_Star_A_01:
+  schools: [star]
+  locations: [202]
+  affinities:
+    ice: 30
+    any: -40
+    storm: -70
+    life: -70
+DM_Kraken_BioL_01:
+  schools: [storm]
+  locations: [201]
+  affinities: 
+    myth: 15
+    any: -9
+    storm: -24
+DM_Player_BranchBoss_A_01:
+  schools: [balance]
+  locations: [203]
+  affinities:
+    balance: -70
+    any: -40
+    life: 30
+    myth: 30
+    death: 30
+DM_Player_BranchMinion_A_01:
+  schools: [life]
+  locations: [201]
+  affinities:
+    death: 30
+    life: -69
+    any: -39
+DM_Player_BranchMinion_A_02:
+  schools: [fire]
+  locations: [203]
+  affinities:
+    ice: 15
+    fire: -26
+    any: -11
+DM_Player_BranchMinion_A_07:
+  ref: DM_Player_BranchMinion_A_02
+  locations: [202]
 LM_Mimic_Book_B_01:
   affinities:
     death: 5
