@@ -53,6 +53,20 @@ DM_Dragon_BalaurHead_A_04:
     any: -45
 DM_Human_LabAssistant_A_01: {}
 DM_Human_LabAssistant_A_03: {}
+DM_Human_Werewolf_A_01:
+  locations: [102]
+  schools: [fire, moon],
+  affinities:
+    ice: 15
+    any: -12
+    fire: -27
+DM_Human_Werewolf_A_02:
+  locations: [102]
+  schools: [myth, moon]
+  affinities:
+    storm: 30
+    myth: -73
+    any: -43
 DM_Khrulhu_Instructor_A_02:
   affinities: 
     fire: 30

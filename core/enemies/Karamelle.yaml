@@ -8,16 +8,6 @@ KM_Gnome_Witch_A_01:
     death: 3
     life: 3
     balance: -60
-KM_Gnome_Worker_A_02:
-  affinities:
-    myth: 5
-    death: 5
-    life: 5
-    balance: -50
-KM_Gnome_Worker_B_02:
-  affinities: 
-    storm: 15
-    myth: -50
 KM_Gobbler_Fruit_A_01: {}
 KM_Gobbler_Fat_A_01: 
   affinities:

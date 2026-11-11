@@ -8,9 +8,10 @@ Darkmoor/DM_Z04_BlackLagoon: {}
 Darkmoor/DM_Z05_ScholomanceEntrance: {}
 Darkmoor/Interiors/DM_Z00I01_Fortune_A:
   id: 1
-Darkmoor/Interiors/DM_Z01I01_FangAndClawInn: {}
+Darkmoor/Interiors/DM_Z01I01_FangAndClawInn:
   id: 101
-Darkmoor/Interiors/DM_Z01I02_InnRoom: {}
+Darkmoor/Interiors/DM_Z01I02_InnRoom:
+  id: 102
 Darkmoor/Interiors/DM_Z01I03_EastonHouse:
   id: 103
 Darkmoor/Interiors/DM_Z01I04_GargoyleWatchtower: {}
