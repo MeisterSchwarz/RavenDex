@@ -1,5 +1,10 @@
 {
   "DM_Blob_Shadow_A_02": "Schattenklumpen",
+  "DM_Card_SpellCardMystical_A_01": "Die Herrscherkarte",
+  "DM_Card_SpellCardMystical_B_01": "Die umgekehrte Stärkekarte",
+  "DM_Card_SpellCardMystical_C_01": "Die Einsiedlerkarte",
+  "DM_Card_SpellCardMystical_D_01": "Die umgekehrte Wagenkarte",
+  "DM_Card_SpellCardMystical_E_01": "Todeskarte",
   "DM_Dox_Base_B_01": "Aufnahmeprüfung",
   "DM_Dragon_BalaurHead_A_03": "Balaur (Tod-Feuer)",
   "DM_Dragon_BalaurHead_A_04": "Balaur (Eis-Sturm)",
@@ -11,5 +16,6 @@
   "DM_Mutant_Darkmoor_A_03": "Graumann-Golem",
   "DM_Mutant_Robe_A_01": "Der Graue Mann",
   "DM_Scholomari_PriestessF_B_01": "Die Hierophantin der Zerstörung",
+  "DM_Vampire_Guard_A_01": "Vampirwächter",
   "DM_Werewolf_Lord_A_01": "Lord Barghest"
 }

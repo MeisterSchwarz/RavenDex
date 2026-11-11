@@ -9,7 +9,8 @@ Arcanum/Interiors/AR_UnformedWorld: {}
 Arcanum/Interiors/AR_Z01_ArbitersArena: {}
 Arcanum/Interiors/AR_Z01_ArbitersArena02: {}
 Arcanum/Interiors/AR_Z01_AstralPlane: {}
-Arcanum/Interiors/AR_Z01_CursedRepository: {}
+Arcanum/Interiors/AR_Z01_CursedRepository:
+  id: 120
 Arcanum/Interiors/AR_Z01_DeadArchive: {}
 Arcanum/Interiors/AR_Z01_DeathSchool: {}
 Arcanum/Interiors/AR_Z01_DrockDock_NoShip: {}
@@ -19,7 +20,8 @@ Arcanum/Interiors/AR_Z01_IceSchool: {}
 Arcanum/Interiors/AR_Z01_Infirmary: {}
 Arcanum/Interiors/AR_Z01_LifeSchool: {}
 Arcanum/Interiors/AR_Z01_LifeSupport: {}
-Arcanum/Interiors/AR_Z01_LiminalSpace: {}
+Arcanum/Interiors/AR_Z01_LiminalSpace:
+  id: 121
 Arcanum/Interiors/AR_Z01_MusicologyOffice: {}
 Arcanum/Interiors/AR_Z01_MusicologyStudio: {}
 Arcanum/Interiors/AR_Z01_MythSchool: {}
@@ -29,7 +31,8 @@ Arcanum/Interiors/AR_Z01_SchismReadingRoom: {}
 Arcanum/Interiors/AR_Z01_ShadowSchool: {}
 Arcanum/Interiors/AR_Z01_StormSchool: {}
 Arcanum/Interiors/AR_Z01_SybilsMemory: {}
-Arcanum/Interiors/AR_Z01_TheBridge: {}
+Arcanum/Interiors/AR_Z01_TheBridge:
+  id: 122
 Arcanum/Interiors/AR_Z02_EnergyCorridor:
   id: 202
 Arcanum/Interiors/AR_Z02_LumiHostageRoom:

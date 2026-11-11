@@ -1,4 +1,41 @@
 DM_Blob_Shadow_A_02: {}
+DM_Card_SpellCardMystical_A_01:
+  locations: [1]
+  schools: [myth]
+  affinities:
+    storm: 30
+    any: -33
+    myth: -63
+DM_Card_SpellCardMystical_B_01:
+  locations: [1]
+  schools: [fire, death]
+  affinities:
+    ice: 30
+    fire: -57
+    any: -27
+DM_Card_SpellCardMystical_C_01:
+  schools: [balance]
+  locations: [1]
+  affinities:
+    balance: -63
+    any: -63
+    death: 30
+    life: 30
+    myth: 30
+DM_Card_SpellCardMystical_D_01:
+  schools: [fire, life]
+  locations: [1]
+  affinities:
+    fire: -57
+    any: -27
+    ice: 30
+DM_Card_SpellCardMystical_E_01:
+  schools: [death]
+  locations: [1]
+  affinities:
+    life: 30
+    death: -66
+    any: -36
 DM_Dox_Base_B_01:
   affinities:
     life: 30
@@ -42,4 +79,11 @@ DM_Mutant_Robe_A_01:
     any: -49
     death: -79
 DM_Scholomari_PriestessF_B_01: {}
+DM_Vampire_Guard_A_01: 
+  locations: [100]
+  schools: [death]
+  affinities:
+    life: 15
+    death: -31
+    any: -16
 DM_Werewolf_Lord_A_01: {}

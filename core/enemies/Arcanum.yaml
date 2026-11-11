@@ -16,6 +16,13 @@ DM_Dust_Star_A_01:
     any: -40
     storm: -70
     life: -70
+DM_Gargoyle_Base_C_01:
+  schools: [ice, myth]
+  locations: [120]
+  affinities:
+    fire: 30
+    ice: -76
+    any: -46
 DM_Kraken_BioL_01:
   schools: [storm]
   locations: [201]
@@ -23,6 +30,16 @@ DM_Kraken_BioL_01:
     myth: 15
     any: -9
     storm: -24
+DM_Mimic_ChestGold_A_01:
+  schools: [moon]
+  locations: [120]
+  affinities:
+    fire: 30
+    death: -70
+    ice: -70
+    any: -40
+DM_Mimic_ChestGold_A_02:
+  ref: DM_Mimic_ChestGold_A_01
 DM_Player_BranchBoss_A_01:
   schools: [balance]
   locations: [203]
@@ -41,7 +58,7 @@ DM_Player_BranchMinion_A_01:
     any: -39
 DM_Player_BranchMinion_A_02:
   schools: [fire]
-  locations: [203]
+  locations: [120, 203]
   affinities:
     ice: 15
     fire: -26
