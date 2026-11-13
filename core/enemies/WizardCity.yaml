@@ -26,7 +26,7 @@ Ghost-Blue-L01:
   affinities:
     any: 0
 Ghost-Blue-L02-B:
-  locations: [200 203]
+  locations: [200, 203]
   schools: [balance]
   affinities:
     any: 0
@@ -55,7 +55,7 @@ Gobbler-Green-Baron-L04:
     life: 7
 Gobbler-Green-Fat-L02:
   schools: [balance]
-  locations: [1000 1005]
+  locations: [1000, 1005]
   affinities:
     balance: -10
     life: 4
@@ -89,7 +89,7 @@ Gobbler-Pink-Baron-L04:
     fire: 20
 Gobbler-Pink-Fat-L03:
   schools: [ice]
-  locations: [1000 1002]
+  locations: [1000, 1002]
   affinities:
     ice: -20
     fire: 20
