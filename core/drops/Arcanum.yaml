@@ -1,0 +1,6 @@
+DM_Bauk_Base_A_01:
+  treasurecards:
+    - tc_feint
+    - tc_spirit_trap
+    - tc_storm_trap
+  gold: [10, 15]

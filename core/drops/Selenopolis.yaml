@@ -1,4 +1,4 @@
 KT_SE_Elemental_MudBall_A_02:
   treasurecards:
-    - item: tc_storm_trap
-    - item: tc_ice_trap
+    - tc_storm_trap
+    - tc_ice_trap
