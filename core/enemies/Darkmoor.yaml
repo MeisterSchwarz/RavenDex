@@ -51,6 +51,20 @@ DM_Dragon_BalaurHead_A_04:
     fire: 38
     ice: -75
     any: -45
+DM_Gargoyle_BaseF_A_01:
+  schools: [storm]
+  locations: [104]
+  affinities:
+    storm: -25
+    myth: 15
+    any: -10
+DM_Gargoyle_CommanderF_A_01:
+  schools: [ice, life]
+  locations: [104]
+  affinities:
+    fire: 30
+    ice: -81
+    any: -51
 DM_Human_LabAssistant_A_01: {}
 DM_Human_LabAssistant_A_03: {}
 DM_Human_Werewolf_A_01:
@@ -92,6 +106,26 @@ DM_Mutant_Robe_A_01:
     life: 30
     any: -49
     death: -79
+DM_Player_BranchBoss_A_04:
+  locations: [106]
+  schools: [storm]
+  affinities:
+    storm: -60
+    myth: 30
+    any: -30
+DM_Player_BranchMinion_A_04:
+  locations: [106]
+  schools: [balance]
+  affinities:
+    balance: -29
+    any: -14
+    death: 15
+    myth: 15
+    life: 15
+DM_Player_BranchMinion_A_05:
+  ref: DM_Player_BranchMinion_A_04
+DM_Player_BranchMinion_A_06:
+  ref: DM_Player_BranchMinion_A_04
 DM_Scholomari_PriestessF_B_01: {}
 DM_Vampire_Guard_A_01: 
   locations: [100]
@@ -100,4 +134,11 @@ DM_Vampire_Guard_A_01:
     life: 15
     death: -31
     any: -16
+DM_Werewolf_Base_A_01:
+  schools: [myth, moon]
+  locations: [100]
+  affinities:
+    storm: 15
+    any: -15
+    myth: -30
 DM_Werewolf_Lord_A_01: {}

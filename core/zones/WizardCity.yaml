@@ -44,9 +44,16 @@ WizardCity/WC_NightSide: {}
 WizardCity/WC_Ravenwood: {}
 WizardCity/WC_Ravenwood_Teleporter: {}
 WizardCity/WC_Shop_Area: {}
-WizardCity/WC_Streets/Interiors/WC_Colossus_Balcony: {}
-WizardCity/WC_Streets/Interiors/WC_Colossus_H1: {}
-WizardCity/WC_Streets/Interiors/WC_Colossus_ThroneRoom: {}
+WizardCity/WC_Streets/Interiors/WC_Colossus_Balcony:
+  id: 1006
+WizardCity/WC_Streets/Interiors/WC_Colossus_H1:
+  id: 1011
+WizardCity/WC_Streets/Interiors/WC_Colossus_T2:
+  id: 1002
+WizardCity/WC_Streets/Interiors/WC_Colossus_T3:
+  id: 1003
+WizardCity/WC_Streets/Interiors/WC_Colossus_ThroneRoom:
+  id: 1005
 WizardCity/WC_Streets/Interiors/WC_Cyclops_H1: {}
 WizardCity/WC_Streets/Interiors/WC_Cyclops_T1: {}
 WizardCity/WC_Streets/Interiors/WC_Cyclops_T2: {}
@@ -58,7 +65,8 @@ WizardCity/WC_Streets/Interiors/WC_Firecat_CabalSafehouse02: {}
 WizardCity/WC_Streets/Interiors/WC_Firecat_H2: {}
 WizardCity/WC_Streets/Interiors/WC_Firecat_T1: {}
 WizardCity/WC_Streets/Interiors/WC_Firecat_T2: {}
-WizardCity/WC_Streets/Interiors/WC_Firecat_T3: {}
+WizardCity/WC_Streets/Interiors/WC_Firecat_T3:
+  id: 203
 WizardCity/WC_Streets/Interiors/WC_Firecat_Theatre: {}
 WizardCity/WC_Streets/Interiors/WC_HauntedCave_T1: {}
 WizardCity/WC_Streets/Interiors/WC_OldeTown_AuctionHouse: {}
@@ -69,19 +77,28 @@ WizardCity/WC_Streets/Interiors/WC_Sunken_City_T1: {}
 WizardCity/WC_Streets/Interiors/WC_Sunken_City_T2: {}
 WizardCity/WC_Streets/Interiors/WC_Sunken_City_T3: {}
 WizardCity/WC_Streets/Interiors/WC_Triton_H3: {}
+WizardCity/WC_Streets/Interiors/WC_Triton_T1:
+  id: 301
 WizardCity/WC_Streets/Interiors/WC_Unicorn_H2: {}
 WizardCity/WC_Streets/Interiors/WC_Unicorn_H3: {}
-WizardCity/WC_Streets/Interiors/WC_Unicorn_HedgeMaze: {}
-WizardCity/WC_Streets/Interiors/WC_Unicorn_T1: {}
-WizardCity/WC_Streets/Interiors/WC_Unicorn_T2: {}
-WizardCity/WC_Streets/WC_Colossus: {}
+WizardCity/WC_Streets/Interiors/WC_Unicorn_HedgeMaze:
+  id: 110
+WizardCity/WC_Streets/Interiors/WC_Unicorn_T1:
+  id: 101
+WizardCity/WC_Streets/Interiors/WC_Unicorn_T2:
+  id: 102
+WizardCity/WC_Streets/WC_Colossus:
+  id: 1000
 WizardCity/WC_Streets/WC_Cyclops: {}
 WizardCity/WC_Streets/WC_DarkCave: {}
 WizardCity/WC_Streets/WC_Drains/Z00_Drains_HUB: {}
-WizardCity/WC_Streets/WC_Firecat: {}
+WizardCity/WC_Streets/WC_Firecat:
+  id: 200
 WizardCity/WC_Streets/WC_HauntedCave: {}
 WizardCity/WC_Streets/WC_OldeTown: {}
 WizardCity/WC_Streets/WC_Sunken_City: {}
-WizardCity/WC_Streets/WC_Triton: {}
+WizardCity/WC_Streets/WC_Triton:
+  id: 300
 WizardCity/WC_Streets/WC_Triton_Underwater/WC_Triton_Underwater: {}
-WizardCity/WC_Streets/WC_Unicorn: {}
+WizardCity/WC_Streets/WC_Unicorn:
+  id: 100

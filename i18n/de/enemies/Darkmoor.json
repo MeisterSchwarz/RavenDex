@@ -8,6 +8,8 @@
   "DM_Dox_Base_B_01": "Aufnahmeprüfung",
   "DM_Dragon_BalaurHead_A_03": "Balaur (Tod-Feuer)",
   "DM_Dragon_BalaurHead_A_04": "Balaur (Eis-Sturm)",
+  "DM_Gargoyle_BaseF_A_01": "Gargoyle-Unterschwebener",
+  "DM_Gargoyle_CommanderF_A_01": "Kommandantin Ahk'To",
   "DM_Human_LabAssistant_A_01": "Laborassistent",
   "DM_Human_LabAssistant_A_03": "Laborassistent",
   "DM_Human_Werewolf_A_01": "Wolfsmensch",
@@ -17,7 +19,12 @@
   "DM_Mutant_Darkmoor_A_02": "Graumann-Golem",
   "DM_Mutant_Darkmoor_A_03": "Graumann-Golem",
   "DM_Mutant_Robe_A_01": "Der Graue Mann",
+  "DM_Player_BranchBoss_A_04": "Hohepriesterin des zerbrochenen Zweiges",
+  "DM_Player_BranchMinion_A_04": "Magier des zerbrochenen Zweiges",
+  "DM_Player_BranchMinion_A_05": "Magier des zerbrochenen Zweiges",
+  "DM_Player_BranchMinion_A_06": "Magier des zerbrochenen Zweiges",
   "DM_Scholomari_PriestessF_B_01": "Die Hierophantin der Zerstörung",
   "DM_Vampire_Guard_A_01": "Vampirwächter",
+  "DM_Werewolf_Base_A_01": "Verirrter Werwolf",
   "DM_Werewolf_Lord_A_01": "Lord Barghest"
 }

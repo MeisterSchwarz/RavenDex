@@ -49,6 +49,20 @@ DM_Player_BranchBoss_A_01:
     life: 30
     myth: 30
     death: 30
+DM_Player_BranchBoss_A_02:
+  schools: [ice]
+  locations: [204]
+  affinities:
+    fire: 30
+    any: -46
+    ice: -76
+DM_Player_BranchBoss_A_03:
+  schools: [storm]
+  locations: [204]
+  affinities:
+    myth: 30
+    any: -28
+    storm: -58
 DM_Player_BranchMinion_A_01:
   schools: [life]
   locations: [201]

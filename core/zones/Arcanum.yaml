@@ -39,6 +39,7 @@ Arcanum/Interiors/AR_Z02_LumiHostageRoom:
   id: 203
 Arcanum/Interiors/AR_Z02_PowerCore:
   id: 201
-Arcanum/Interiors/AR_Z02_WindgineRoom: {}
+Arcanum/Interiors/AR_Z02_WindgineRoom:
+  id: 204
 Arcanum/Interiors/AR_Z03_ArkCrashCinematic: {}
 Arcanum/Interiors/AR_Z03_ArkShip: {}

@@ -14,9 +14,12 @@ Darkmoor/Interiors/DM_Z01I02_InnRoom:
   id: 102
 Darkmoor/Interiors/DM_Z01I03_EastonHouse:
   id: 103
-Darkmoor/Interiors/DM_Z01I04_GargoyleWatchtower: {}
-Darkmoor/Interiors/DM_Z01I05_BrokenBranchHovel: {}
-Darkmoor/Interiors/DM_Z01I06_EastonHouseDayEncounter: {}
+Darkmoor/Interiors/DM_Z01I04_GargoyleWatchtower:
+  id: 104
+Darkmoor/Interiors/DM_Z01I05_BrokenBranchHovel:
+  id: 105
+Darkmoor/Interiors/DM_Z01I06_EastonHouseDayEncounter:
+  id: 106
 Darkmoor/Interiors/DM_Z01I07_Wereden: {}
 Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_01: {}
 Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_02: {}
