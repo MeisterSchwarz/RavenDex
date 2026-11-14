@@ -31,7 +31,8 @@ G14-DM-Malistaire_Boss:
     death: -60
 G14-DM-ShaneVonShane_Boss:
   schools: [death]
-  locations: [505]
+  locations:
+    - G14_DM/DM_Z05_Library
   affinities:
     life: 20
     death: -50

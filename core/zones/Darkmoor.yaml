@@ -1,29 +1,22 @@
-Darkmoor/DM_Z00_OutsidersCamp:
-  id: 0
-Darkmoor/DM_Z01_Graveholm:
-  id: 100
+Darkmoor/DM_Z00_OutsidersCamp: {}
+Darkmoor/DM_Z01_Graveholm: {}
 Darkmoor/DM_Z02_MortalPlain: {}
 Darkmoor/DM_Z03_HowlingLands: {}
 Darkmoor/DM_Z04_BlackLagoon: {}
 Darkmoor/DM_Z05_ScholomanceEntrance: {}
-Darkmoor/Interiors/DM_Z00I01_Fortune_A:
-  id: 1
-Darkmoor/Interiors/DM_Z01I01_FangAndClawInn:
-  id: 101
-Darkmoor/Interiors/DM_Z01I02_InnRoom:
-  id: 102
-Darkmoor/Interiors/DM_Z01I03_EastonHouse:
-  id: 103
-Darkmoor/Interiors/DM_Z01I04_GargoyleWatchtower:
-  id: 104
-Darkmoor/Interiors/DM_Z01I05_BrokenBranchHovel:
-  id: 105
-Darkmoor/Interiors/DM_Z01I06_EastonHouseDayEncounter:
-  id: 106
+Darkmoor/Interiors/DM_Z00I01_Fortune_A: {}
+Darkmoor/Interiors/DM_Z01I01_FangAndClawInn: {}
+Darkmoor/Interiors/DM_Z01I02_InnRoom: {}
+Darkmoor/Interiors/DM_Z01I03_EastonHouse: {}
+Darkmoor/Interiors/DM_Z01I04_GargoyleWatchtower: {}
+Darkmoor/Interiors/DM_Z01I05_BrokenBranchHovel: {}
+Darkmoor/Interiors/DM_Z01I06_EastonHouseDayEncounter: {}
 Darkmoor/Interiors/DM_Z01I07_Wereden: {}
-Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_01: {}
+Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_01: 
 Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_02: {}
+Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_03: {}
 Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_04: {}
+Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_05: {}
 Darkmoor/Interiors/DM_Z01I09_Safehouse: {}
 Darkmoor/Interiors/DM_Z01I10_SafehouseCourtyardNight: {}
 Darkmoor/Interiors/DM_Z01I11_ParliamentOfNightThroneRoom: {}

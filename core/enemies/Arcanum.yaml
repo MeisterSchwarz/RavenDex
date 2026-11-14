@@ -3,14 +3,16 @@ AR_Wolf_LowPoly_A_01:
     any: -28
 DM_Bauk_Base_A_01:
   schools: [death]
-  locations: [201]
+  locations:
+    - Arcanum/Interiors/AR_Z02_PowerCore
   affinities:
     life: 15
     any: -14
     death: -29
 DM_Dust_Star_A_01:
   schools: [star]
-  locations: [202]
+  locations:
+    - Arcanum/Interiors/AR_Z02_EnergyCorridor
   affinities:
     ice: 30
     any: -40
@@ -18,21 +20,24 @@ DM_Dust_Star_A_01:
     life: -70
 DM_Gargoyle_Base_C_01:
   schools: [ice, myth]
-  locations: [120]
+  locations:
+    - Arcanum/Interiors/AR_Z01_CursedRepository
   affinities:
     fire: 30
     ice: -76
     any: -46
 DM_Kraken_BioL_01:
   schools: [storm]
-  locations: [201]
+  locations:
+    - Arcanum/Interiors/AR_Z02_PowerCore
   affinities: 
     myth: 15
     any: -9
     storm: -24
 DM_Mimic_ChestGold_A_01:
   schools: [moon]
-  locations: [120]
+  locations:
+    - Arcanum/Interiors/AR_Z01_CursedRepository
   affinities:
     fire: 30
     death: -70
@@ -42,7 +47,8 @@ DM_Mimic_ChestGold_A_02:
   ref: DM_Mimic_ChestGold_A_01
 DM_Player_BranchBoss_A_01:
   schools: [balance]
-  locations: [203]
+  locations:
+    - Arcanum/Interiors/AR_Z02_LumiHostageRoom
   affinities:
     balance: -70
     any: -40
@@ -51,35 +57,41 @@ DM_Player_BranchBoss_A_01:
     death: 30
 DM_Player_BranchBoss_A_02:
   schools: [ice]
-  locations: [204]
+  locations:
+    - Arcanum/Interiors/AR_Z02_WindgineRoom
   affinities:
     fire: 30
     any: -46
     ice: -76
 DM_Player_BranchBoss_A_03:
   schools: [storm]
-  locations: [204]
+  locations:
+    - Arcanum/Interiors/AR_Z02_WindgineRoom
   affinities:
     myth: 30
     any: -28
     storm: -58
 DM_Player_BranchMinion_A_01:
   schools: [life]
-  locations: [201]
+  locations:
+    - Arcanum/Interiors/AR_Z02_PowerCore
   affinities:
     death: 30
     life: -69
     any: -39
 DM_Player_BranchMinion_A_02:
   schools: [fire]
-  locations: [120, 203]
+  locations:
+    - Arcanum/Interiors/AR_Z01_CursedRepository
+    - Arcanum/Interiors/AR_Z02_LumiHostageRoom
   affinities:
     ice: 15
     fire: -26
     any: -11
 DM_Player_BranchMinion_A_07:
   ref: DM_Player_BranchMinion_A_02
-  locations: [202]
+  locations:
+    - Arcanum/Interiors/AR_Z02_EnergyCorridor
 LM_Mimic_Book_B_01:
   affinities:
     death: 5

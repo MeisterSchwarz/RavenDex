@@ -18,7 +18,8 @@ KT_SE_Beetle_Scarab_C_01:
     death: -30
 KT_SE_Celestian_Khonsu_A_01:
   schools: [moon]
-  locations: [490]
+  locations:
+    - Krokotopia/KT_Selenopolis/Interiors/KT_Z04_Sanctum
   affinities:
     any: 0
 KT_SE_Chameleon_Split_A_01:
@@ -39,14 +40,16 @@ KT_SE_Duck_Librarian_A_01: {}
 KT_SE_Duck_Librarian_B_01: {}
 KT_SE_Elemental_MudBall_A_01:
   schools: [ice]
-  locations: [701]
+  locations:
+    - Krokotopia/KT_Selenopolis/Interiors/KT_Z07I01_Vivarium
   affinities:
     ice: -46
     any: -26
     fire: 20
 KT_SE_Elemental_MudBall_A_02:
   schools: [balance]
-  locations: [701]
+  locations:
+    - Krokotopia/KT_Selenopolis/Interiors/KT_Z07I01_Vivarium
   affinities:
     balance: -43
     myth: 20

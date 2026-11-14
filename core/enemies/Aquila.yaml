@@ -1,0 +1,63 @@
+AQ-Centaur-Artemis:
+  locations:
+    - Aquila/Interiors/AQ_Z01_ArtemusRoom
+  schools: [moon]
+  affinities:
+    fire: 10
+    storm: 10
+    life: 10
+    ice: -20
+    myth: -20
+    death: -20
+AQ-Cyclops-Guard:
+  locations:
+    - Aquila/AQ_Z01_MountOlympus
+    - Aquila/Interiors/AQ_Z01_Apollo_Room
+    - Aquila/Interiors/AQ_Z01_HallOfWatchfulEye
+  schools: [myth]
+  affinities:
+    storm: 40
+    myth: -40
+AQ-Eagle-Praetorian:
+  locations:
+    - Aquila/AQ_Z01_MountOlympus
+  schools: [storm]
+  affinities:
+    myth: 40
+    storm: -40
+AQ-Immortal-Apollo:
+  locations:
+    - Aquila/Interiors/AQ_Z01_Apollo_Room
+  schools: [life]
+  affinities:
+    death: 50
+    life: -80
+AQ-Immortal-Ares:
+  locations:
+    - Aquila/Interiors/AQ_Z01_HallOfBattle
+  schools: [fire]
+  affinities:
+    ice: 50
+    fire: -80
+AQ-Immortal-Zeus-A:
+  schools: [myth]
+  locations:
+    - Aquila/Interiors/AQ_Z01_Throne_Room
+  affinities:
+    myth: -80
+    storm: 50
+AQ-Minotaur-Warrior:
+  locations:
+    - Aquila/Interiors/AQ_Z01_Throne_Room
+  schools: [ice]
+  affinities:
+    ice: -40
+    fire: 40
+AQ-Ophidian-Archer:
+  locations:
+    - Aquila/Interiors/AQ_Z01_ArtemusRoom
+    - Aquila/Interiors/AQ_Z01_HallOfBattle
+  schools: [death]
+  affinities:
+    life: 40
+    death: -40

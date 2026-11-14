@@ -1,5 +1,6 @@
 Banshee-Blue-WCBoss-L18:
-  locations: [203]
+  locations:
+    - WizardCity/WC_Streets/Interiors/WC_Firecat_T3
   schools: [death]
   affinities:
     life: 20
@@ -7,7 +8,8 @@ Banshee-Blue-WCBoss-L18:
 Banshee-Red-Elite-L24: {}
 Banshee-Red-Elite-L24_B: {}
 Banshee-Red-L12:
-  locations: [300]
+  locations:
+    - WizardCity/WC_Streets/WC_Triton
   schools: [myth]
   affinities:
     storm: 10
@@ -22,32 +24,38 @@ FireElf-Red-L02: {}
 FireElf-Yellow-L02: {}
 Ghost-Blue-L01:
   schools: [death]
-  locations: [100]
+  locations:
+    - WizardCity/WC_Streets/WC_Unicorn
   affinities:
     any: 0
 Ghost-Blue-L02-B:
-  locations: [200, 203]
+  locations:
+    - WizardCity/WC_Streets/WC_Firecat
+    - WizardCity/WC_Streets/Interiors/WC_Firecat_T3
   schools: [balance]
   affinities:
     any: 0
 Ghost-Green-Elite-L20: {}
 Ghost-Green-WCBoss-L02:
   schools: [life]
-  locations: [101]
+  locations:
+    - WizardCity/WC_Streets/Interiors/WC_Unicorn_T1
   affinities:
     any: 0
 Ghost-Red-WCBoss-L03: {}
 Ghost-Red-WCBoss-L31: {}
 Ghoul-Purple-L02:
   schools: [storm]
-  locations: [300]
+  locations:
+    - WizardCity/WC_Streets/WC_Triton
   affinities:
     myth: 10
     storm: -10
 Ghoul-Red-WCBoss-L02: {}
 Gobbler-Green-Baron-L04:
   schools: [balance]
-  locations: [1005]
+  locations:
+    - WizardCity/WC_Streets/Interiors/WC_Colossus_ThroneRoom
   affinities:
     balance: -50
     myth: 7
@@ -55,7 +63,9 @@ Gobbler-Green-Baron-L04:
     life: 7
 Gobbler-Green-Fat-L02:
   schools: [balance]
-  locations: [1000, 1005]
+  locations:
+    - WizardCity/WC_Streets/WC_Colossus
+    - WizardCity/WC_Streets/Interiors/WC_Colossus_ThroneRoom
   affinities:
     balance: -10
     life: 4
@@ -63,7 +73,8 @@ Gobbler-Green-Fat-L02:
     myth: 4
 Gobbler-Green-Skinny-L02:
   schools: [balance]
-  locations: [1000]
+  locations:
+    - WizardCity/WC_Streets/WC_Colossus
   affinities:
     balance: -10
     life: 4
@@ -71,43 +82,51 @@ Gobbler-Green-Skinny-L02:
     myth: 4
 Gobbler-Hick-Baron-L04:
   schools: [life]
-  locations: [1003]
+  locations:
+    - WizardCity/WC_Streets/Interiors/WC_Colossus_T3
   affinities:
     death: 20
     life: -50
 Gobbler-Hick-Skinny-L02:
   schools: [life]
-  locations: [1000]
+  locations:
+    - WizardCity/WC_Streets/WC_Colossus
   affinities:
     life: 10
     death: -10
 Gobbler-Pink-Baron-L04:
   schools: [ice]
-  locations: [1002]
+  locations:
+    - WizardCity/WC_Streets/Interiors/WC_Colossus_T2
   affinities:
     ice: -50
     fire: 20
 Gobbler-Pink-Fat-L03:
   schools: [ice]
-  locations: [1000, 1002]
+  locations:
+    - WizardCity/WC_Streets/WC_Colossus
+    - WizardCity/WC_Streets/Interiors/WC_Colossus_T2
   affinities:
     ice: -20
     fire: 20
 Gobbler-Pink-Skinny-L02:
   schools: [ice]
-  locations: [1000]
+  locations:
+    - WizardCity/WC_Streets/WC_Colossus
   affinities:
     ice: -10
     fire: 10
 Kraken-WCBoss-L03:
   schools: [storm]
-  locations: [300]
+  locations:
+    - WizardCity/WC_Streets/WC_Triton
   affinities:
     storm: -50
     myth: 20
 Scarecrow-WCBoss-L03:
   schools: [fire]
-  locations: [301]
+  locations:
+    - WizardCity/WC_Streets/Interiors/WC_Triton_T1
   affinities:
     ice: 10
     fire: -40
@@ -115,32 +134,37 @@ Skeleton-Gold-WCBoss-L03: {}
 Skeleton-Gold-WCBoss-L31: {}
 Skeleton-Pirate-L01:
   schools: [death]
-  locations: [100]
+  locations:
+    - WizardCity/WC_Streets/WC_Unicorn
   affinities:
     any: 0
 Skeleton-Silver-L02: {}
 Skeleton-Silver-WCBoss-L01:
   schools: [death]
-  locations: [102]
+  locations:
+    - WizardCity/WC_Streets/Interiors/WC_Unicorn_T2
   affinities:
     any: 0
 Snowman-Fire-L12: {}
 Snowman-L12:
   schools: [ice]
-  locations: [1000]
+  locations:
+    - WizardCity/WC_Streets/WC_Colossus
   affinities:
     fire: 20
     ice: -20
 Troll-Green-L01: {}
 WC-Eel-Blue-L02:
   schools: [storm]
-  locations: [300]
+  locations:
+    - WizardCity/WC_Streets/WC_Triton
   affinities:
     storm: -10
     myth: 10
 WC-TR-Banshee-Red-L12: {}
 WC-TR-Ghoul-Purple-L02:
-  locations: [301]
+  locations:
+    - WizardCity/WC_Streets/Interiors/WC_Triton_T1
   schools: [storm]
   affinities:
     myth: 10

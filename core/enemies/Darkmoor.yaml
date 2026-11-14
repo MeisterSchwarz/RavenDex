@@ -1,13 +1,31 @@
+DM_Bauk_Base_A_01:
+  schools: [death]
+  locations:
+    - Darkmoor/Interiors/DM_Z01I12_DarkHallway
+  affinities:
+    life: 15
+    any: -14
+    death: -29
+DM_Bauk_Base_A_02:
+  locations:
+    - Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_02
+  schools: [storm]
+  affinities:
+    myth: 20
+    any: -19
+    storm: -39
 DM_Blob_Shadow_A_02: {}
 DM_Card_SpellCardMystical_A_01:
-  locations: [1]
+  locations:
+    - Darkmoor/Interiors/DM_Z00I01_Fortune_A
   schools: [myth]
   affinities:
     storm: 30
     any: -33
     myth: -63
 DM_Card_SpellCardMystical_B_01:
-  locations: [1]
+  locations:
+    - Darkmoor/Interiors/DM_Z00I01_Fortune_A
   schools: [fire, death]
   affinities:
     ice: 30
@@ -15,7 +33,8 @@ DM_Card_SpellCardMystical_B_01:
     any: -27
 DM_Card_SpellCardMystical_C_01:
   schools: [balance]
-  locations: [1]
+  locations:
+    - Darkmoor/Interiors/DM_Z00I01_Fortune_A
   affinities:
     balance: -63
     any: -63
@@ -24,14 +43,16 @@ DM_Card_SpellCardMystical_C_01:
     myth: 30
 DM_Card_SpellCardMystical_D_01:
   schools: [fire, life]
-  locations: [1]
+  locations:
+    - Darkmoor/Interiors/DM_Z00I01_Fortune_A
   affinities:
     fire: -57
     any: -27
     ice: 30
 DM_Card_SpellCardMystical_E_01:
   schools: [death]
-  locations: [1]
+  locations:
+    - Darkmoor/Interiors/DM_Z00I01_Fortune_A
   affinities:
     life: 30
     death: -66
@@ -51,16 +72,31 @@ DM_Dragon_BalaurHead_A_04:
     fire: 38
     ice: -75
     any: -45
+DM_Gargoyle_Base_A_01:
+  locations:
+    - Darkmoor/DM_Z01_Graveholm
+  schools: [ice]
+  affinities:
+    fire: 15
+    any: -17
+    ice: -32
 DM_Gargoyle_BaseF_A_01:
   schools: [storm]
-  locations: [104]
+  locations:
+    - Darkmoor/Interiors/DM_Z01I04_GargoyleWatchtower
+    - Darkmoor/Interiors/DM_Z01I12_DarkHallway
   affinities:
     storm: -25
     myth: 15
     any: -10
+DM_Gargoyle_BaseF_A_02:
+  locations:
+    - Darkmoor/Interiors/DM_Z01I12_DarkHallway
+  ref: DM_Gargoyle_BaseF_A_01
 DM_Gargoyle_CommanderF_A_01:
   schools: [ice, life]
-  locations: [104]
+  locations:
+    - Darkmoor/Interiors/DM_Z01I04_GargoyleWatchtower
   affinities:
     fire: 30
     ice: -81
@@ -68,19 +104,41 @@ DM_Gargoyle_CommanderF_A_01:
 DM_Human_LabAssistant_A_01: {}
 DM_Human_LabAssistant_A_03: {}
 DM_Human_Werewolf_A_01:
-  locations: [102]
+  locations:
+    - Darkmoor/Interiors/DM_Z01I02_InnRoom
   schools: [fire, moon]
   affinities:
     ice: 15
     any: -12
     fire: -27
 DM_Human_Werewolf_A_02:
-  locations: [102]
+  locations:
+    - Darkmoor/Interiors/DM_Z01I02_InnRoom
   schools: [myth, moon]
   affinities:
     storm: 30
     myth: -73
     any: -43
+DM_Human_Werewolf_A_03:
+  locations:
+    - Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_03
+  schools: [ice, moon]
+  affinities:
+    fire: 20
+    any: -31
+    ice: -51
+DM_Human_Werewolf_A_04:
+  locations:
+    - Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_04
+  schools: [myth, moon]
+  affinities:
+    storm: 20
+    myth: -47
+    any: -27
+DM_Human_Werewolf_A_05:
+  locations:
+    - Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_05
+  schools: [death, moon]
 DM_Khrulhu_Instructor_A_02:
   affinities: 
     fire: 30
@@ -107,14 +165,24 @@ DM_Mutant_Robe_A_01:
     any: -49
     death: -79
 DM_Player_BranchBoss_A_04:
-  locations: [106]
+  locations:
+    - Darkmoor/Interiors/DM_Z01I06_EastonHouseDayEncounter
   schools: [storm]
   affinities:
     storm: -60
     myth: 30
     any: -30
+DM_Player_BranchBoss_A_05:
+  locations:
+    - Darkmoor/Interiors/DM_Z01I12_DarkHallway
+  schools: [fire]
+  affinities:
+    fire: -66
+    any: -36
+    ice: 30
 DM_Player_BranchMinion_A_04:
-  locations: [106]
+  locations:
+    - Darkmoor/Interiors/DM_Z01I06_EastonHouseDayEncounter
   schools: [balance]
   affinities:
     balance: -29
@@ -127,16 +195,32 @@ DM_Player_BranchMinion_A_05:
 DM_Player_BranchMinion_A_06:
   ref: DM_Player_BranchMinion_A_04
 DM_Scholomari_PriestessF_B_01: {}
+DM_Vampire_Base_C_01:
+  schools: [death]
+  locations:
+    - Darkmoor/Interiors/DM_Z01I10_SafehouseCourtyardNight
+  affinities:
+    death: -77
+    life: 30
+    any: -47
 DM_Vampire_Guard_A_01: 
-  locations: [100]
+  locations:
+    - Darkmoor/DM_Z01_Graveholm
   schools: [death]
   affinities:
     life: 15
     death: -31
     any: -16
+  hp: 4970
+DM_Vampire_Guard_A_02:
+  locations:
+    - Darkmoor/Interiors/DM_Z01I10_SafehouseCourtyardNight
+  schools: [death]
+  hp: 4980
 DM_Werewolf_Base_A_01:
   schools: [myth, moon]
-  locations: [100]
+  locations:
+    - Darkmoor/DM_Z01_Graveholm
   affinities:
     storm: 15
     any: -15
