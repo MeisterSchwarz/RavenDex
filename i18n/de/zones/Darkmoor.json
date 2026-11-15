@@ -27,7 +27,7 @@
   "Darkmoor/Interiors/DM_Z01I13_SecretLab": ["Parlament der Nacht", "Geheimlabor"],
 
   "Darkmoor/Interiors/DM_Z02_AscensionChapel": ["Ebene der Sterblichen", "Kapelle des Aufstiegs"],
-  "Darkmoor/Interiors/DM_Z02_Castle_A": ["Ebene der Sterblichen", "Schloss Strigoi"],
+  "Darkmoor/Interiors/DM_Z02_Castle_A": "Schloss Strigoi",
   "Darkmoor/Interiors/DM_Z02_DeeperWoods_A": ["Ebene der Sterblichen", "Tieferer Wald"],
   "Darkmoor/Interiors/DM_Z02_LutherHouse": ["Ebene der Sterblichen", "Luther Tillmas Haus"],
   "Darkmoor/Interiors/DM_Z02_MayorHouse_A": ["Ebene der Sterblichen", "Bürgermeisterhaus"],

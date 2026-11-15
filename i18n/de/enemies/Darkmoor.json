@@ -33,8 +33,14 @@
   "DM_Player_BranchMinion_A_06": "Magier des zerbrochenen Zweiges",
   "DM_Scholomari_PriestessF_B_01": "Die Hierophantin der Zerstörung",
   "DM_Vampire_Base_C_01": "Lord Arthur Easton",
-  "DM_Vampire_Guard_A_01 (H4970)": "Vampirwächter",
-  "DM_Vampire_Guard_A_02 (H4980)": "Vampirwächter",
+  "DM_Vampire_BaseF_B_02": "Mina Clarke",
+  "DM_Vampire_BaseF_C_01": "Klerikerin Elesar",
+  "DM_Vampire_Bat_D_01": "Kain von Schannt",
+  "DM_Vampire_Count_A_01": "Graf Strigoi",
+  "DM_Vampire_Guard_A_01": "Vampirwächter (H4970)",
+  "DM_Vampire_Guard_A_02": "Vampirwächter (H4980)",
+  "DM_Vampire_Guard_A_04": "Vampirwächter",
+  "DM_Vampire_Guard_A_05": "Vampirwächter",
   "DM_Werewolf_Base_A_01": "Verirrter Werwolf",
   "DM_Werewolf_Lord_A_01": "Lord Barghest"
 }

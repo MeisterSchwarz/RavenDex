@@ -1,0 +1,15 @@
+{
+    "Ahmarra/AH_Z00_BaleFlotilla": "Unheils-Flotille",
+    "Ahmarra/AH_Z01_WesternSea": "Westmeer",
+    "Ahmarra/AH_Z02_FloodedCity": "Überflutete Stadt",
+    "Ahmarra/Interiors/AH_Z00I01_BesiegedShip": ["Unheils-Flotille", "Belagertes Schiff"],
+    "Ahmarra/Interiors/AH_Z00I02_HijackedShip": ["Unheils-Flotille", "Gekapertes Schiff"],
+    "Ahmarra/Interiors/AH_Z00I03_DangerousWhirlpool": ["Unheils-Flotille", "Gefährlicher Strudel"],
+    "Ahmarra/Interiors/AH_Z00I04_BirdNest": ["Unheils-Flotille", "Vogelnest"],
+    "Ahmarra/Interiors/AH_Z00I05_MockUp": ["Unheils-Flotille", "Pseudoschildkröten-Nachahmung"],
+    "Ahmarra/Interiors/AH_Z00_ProvisionShip": ["Unheils-Flotille", "Versorgungsschiff"],
+    "Ahmarra/Interiors/AH_Z00_ShipHold_01": ["Unheils-Flotille", "Erstes Schiff"],
+    "Ahmarra/Interiors/AH_Z00_ShipHold_02": ["Unheils-Flotille", "Zweites Schiff"],
+    "Ahmarra/Interiors/AH_Z02I01_UnknownTear": ["Überflutete Stadt", "Unbekannter Riss"],
+    "Ahmarra/Interiors/AH_Z02I03_CollapsedBuilding": ["Überflutete Stadt", "Eingestürztes Gebäude"]
+}

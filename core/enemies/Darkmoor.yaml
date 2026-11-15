@@ -203,6 +203,38 @@ DM_Vampire_Base_C_01:
     death: -77
     life: 30
     any: -47
+DM_Vampire_BaseF_B_02:
+  schools: [death, moon]
+  locations:
+    - Darkmoor/Interiors/DM_Z02_AscensionChapel
+  affinities:
+    life: 30
+    death: -67
+    any: -67
+DM_Vampire_BaseF_C_01:
+  schools: [death, ice]
+  locations:
+    - Darkmoor/Interiors/DM_Z02_AscensionChapel
+  affinities:
+    life: 30
+    any: -37
+    death: -67
+DM_Vampire_Bat_D_01
+  schools: [death, star]
+  locations:
+    - Darkmoor/Interiors/DM_Z02_Castle_A
+  affinities:
+    death: -67
+    any: -37
+    life: 30
+DM_Vampire_Count_A_01:
+  schools: [death]
+  locations:
+    - Darkmoor/Interiors/DM_Z02_AscensionChapel
+  affinities:
+    death: -67
+    life: 30
+    any: -37
 DM_Vampire_Guard_A_01: 
   locations:
     - Darkmoor/DM_Z01_Graveholm
@@ -217,6 +249,22 @@ DM_Vampire_Guard_A_02:
     - Darkmoor/Interiors/DM_Z01I10_SafehouseCourtyardNight
   schools: [death]
   hp: 4980
+DM_Vampire_Guard_A_04:
+  schools: [death, storm]
+  locations:
+    - Darkmoor/Interiors/DM_Z02_AscensionChapel
+  affinities:
+    life: 20
+    death: -43
+    any: -23
+DM_Vampire_Guard_A_05:
+  schools: [death, myth]
+  locations:
+    - Darkmoor/Interiors/DM_Z02_AscensionChapel
+  affinities:
+    life: 20
+    any: -23
+    death: -43
 DM_Werewolf_Base_A_01:
   schools: [myth, moon]
   locations:

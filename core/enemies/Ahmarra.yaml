@@ -1,0 +1,26 @@
+AH_BirdMonster_Base_A_03:
+  schools: [myth]
+AH_LandFish_Base_A_01:
+  schools: [ice, myth]
+AH_Octopus_Alien_A_01:
+  schools: [storm, myth]
+AH_StormTitanAvatar_01:
+  schools: [myth, storm]
+AH_Triwhal_Base_A_01:
+  schools: [myth]
+AH_Turtle_ActorDragonF_A_01:
+  schools: [fire]
+AH_Turtle_ActorGiantF_A_01:
+  schools: [ice]
+AH_Turtle_ActorTritonF_A_01:
+  schools: [storm]
+AH_Turtle_FanaticF_C_04:
+  schools: [life]
+AH_Turtle_Fanatic_A_01:
+  schools: [life]
+AH_WhaleBird_Base_A_03:
+  schools: [death]
+AH_WhaleBird_Base_A_04:
+  schools: [ice]
+AH_WhaleBird_Base_B_01:
+  schools: [death, storm]

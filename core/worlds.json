@@ -99,6 +99,11 @@
     "order": 20,
     "type": "main"
   },
+  "Ahmarra": {
+    "image": "ahmarra",
+    "order": 21,
+    "type": "main"
+  },
   "Grizzleheim": {
     "image": "grizzleheim",
     "order": 30,

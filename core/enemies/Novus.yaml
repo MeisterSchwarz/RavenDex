@@ -1,3 +1,21 @@
+AH_Brain_Fog_A_01:
+  schools: [myth, life]
+  affinities:
+    storm: 15
+    myth: -15
+    any: -13
+AH_Brain_Fog_A_02:
+  schools: [myth, storm]
+  affinities:
+    storm: 15
+    myth: -15
+    any: -13
+AH_Whiplash_Base_B_01:
+  schools: [myth]
+  affinities:
+    storm: 30
+    myth: -67
+    any: -37
 NV_BananaSpider_Base_A_01: 
   affinities:
     death: 14
