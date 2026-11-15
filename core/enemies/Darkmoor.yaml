@@ -219,7 +219,7 @@ DM_Vampire_BaseF_C_01:
     life: 30
     any: -37
     death: -67
-DM_Vampire_Bat_D_01
+DM_Vampire_Bat_D_01:
   schools: [death, star]
   locations:
     - Darkmoor/Interiors/DM_Z02_Castle_A

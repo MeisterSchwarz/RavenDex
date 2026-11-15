@@ -2,6 +2,8 @@
     "Ahmarra/AH_Z00_BaleFlotilla": "Unheils-Flotille",
     "Ahmarra/AH_Z01_WesternSea": "Westmeer",
     "Ahmarra/AH_Z02_FloodedCity": "Überflutete Stadt",
+    "Ahmarra/AH_Z03_IslandOfTheStorm": ["Insel des Sturms", "Schiffsdeck"],
+    "Ahmarra/AH_Z03_IslandOfTheStorm_B": "Insel des Sturms",
     "Ahmarra/Interiors/AH_Z00I01_BesiegedShip": ["Unheils-Flotille", "Belagertes Schiff"],
     "Ahmarra/Interiors/AH_Z00I02_HijackedShip": ["Unheils-Flotille", "Gekapertes Schiff"],
     "Ahmarra/Interiors/AH_Z00I03_DangerousWhirlpool": ["Unheils-Flotille", "Gefährlicher Strudel"],
@@ -10,6 +12,18 @@
     "Ahmarra/Interiors/AH_Z00_ProvisionShip": ["Unheils-Flotille", "Versorgungsschiff"],
     "Ahmarra/Interiors/AH_Z00_ShipHold_01": ["Unheils-Flotille", "Erstes Schiff"],
     "Ahmarra/Interiors/AH_Z00_ShipHold_02": ["Unheils-Flotille", "Zweites Schiff"],
+    "Ahmarra/Interiors/AH_Z01I01_ForbiddenCity": ["Westmeer", "Verbotene Stadt"],
     "Ahmarra/Interiors/AH_Z02I01_UnknownTear": ["Überflutete Stadt", "Unbekannter Riss"],
-    "Ahmarra/Interiors/AH_Z02I03_CollapsedBuilding": ["Überflutete Stadt", "Eingestürztes Gebäude"]
+    "Ahmarra/Interiors/AH_Z02I03_CollapsedBuilding": ["Überflutete Stadt", "Eingestürztes Gebäude"],
+    "Ahmarra/Interiors/AH_Z02I04_DrownedPassage": ["Überflutete Stadt", "Überflutete Passage"],
+    "Ahmarra/Interiors/AH_Z02I05_RitualOfSacrifice": ["Überflutete Stadt", "Ritual des Opfers"],
+    "Ahmarra/Interiors/AH_Z02I06_RuinedBuildingAkashic": ["Überflutete Stadt", "Zerstörtes Gebäude"],
+    "Ahmarra/Interiors/AH_Z02I07_FinalTear": ["Überflutete Stadt", "Letzter Riss"],
+    "Ahmarra/Interiors/AH_Z02I07_FinalTear_B" : ["Überflutete Stadt", "Letzter Riss"],
+    "Ahmarra/Interiors/AH_Z02I08_UnstableAkasha": ["Überflutete Stadt", "Instabiles Akasha"],
+    "Ahmarra/Interiors/AH_Z02I10_RestingRoom": ["Überflutete Stadt", "Tempel"],
+    "Ahmarra/Interiors/AH_Z03I01_ShellionHold": ["Insel des Sturms", "Panzerteufelfestung"],
+    "Ahmarra/Interiors/AH_Z03I02_TurbulentWhirlpool": ["Insel des Sturms", "Turbulenter Strudel"],
+    "Ahmarra\Interiors\AH_Z03I04_StormManipulator": ["Insel des Sturms", "Sturmmanipulator"],
+    "Ahmarra/Interiors/AH_Z03_InsideTheStorm": ["Insel des Sturms", "Sturminneres"]
 }
