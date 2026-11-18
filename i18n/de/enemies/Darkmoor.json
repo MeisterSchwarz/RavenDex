@@ -14,6 +14,8 @@
   "DM_Gargoyle_BaseF_A_01": "Gargoyle-Unterschwebener",
   "DM_Gargoyle_BaseF_A_02": "Gargoyle-Unterschwebener",
   "DM_Gargoyle_CommanderF_A_01": "Kommandantin Ahk'To",
+  "DM_Human_AngryMob_A_01": "Quincy Morris",
+  "DM_Human_AngryMob_A_02": "John Seward",
   "DM_Human_LabAssistant_A_01": "Laborassistent",
   "DM_Human_LabAssistant_A_03": "Laborassistent",
   "DM_Human_Werewolf_A_01": "Wolfsmensch",
@@ -41,6 +43,11 @@
   "DM_Vampire_Guard_A_02": "Vampirwächter (H4980)",
   "DM_Vampire_Guard_A_04": "Vampirwächter",
   "DM_Vampire_Guard_A_05": "Vampirwächter",
+  "DM_Werebear_Base_A_02": "Werbär",
+  "DM_Werebear_Base_A_04": "Werbär",
+  "DM_Werebear_Base_A_06": "Werbär",
+  "DM_Werebear_Base_E_01": "Petz",
   "DM_Werewolf_Base_A_01": "Verirrter Werwolf",
+  "DM_Werewolf_Base_A_04": "Werwolfjäger",
   "DM_Werewolf_Lord_A_01": "Lord Barghest"
 }

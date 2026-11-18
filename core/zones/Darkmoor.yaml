@@ -31,8 +31,9 @@ Darkmoor/Interiors/DM_Z02_SanguineHouse: {}
 Darkmoor/Interiors/DM_Z02_VictimHouse_A: {}
 Darkmoor/Interiors/DM_Z02_WoodedClearing_A: {}
 Darkmoor/Interiors/DM_Z03_Hideout: {}
-Darkmoor/Interiors/DM_Z03_HuntingGrounds: {}
+Darkmoor/Interiors/DM_Z03_HuntingGrounds:
 Darkmoor/Interiors/DM_Z03_OvergrownEstate: {}
+Darkmoor/Interiors/DM_Z03_WereHollow: {}
 Darkmoor/Interiors/DM_Z03_WoodedClearing: {}
 Darkmoor/Interiors/DM_Z04I03_DarkBog: {}
 Darkmoor/Interiors/DM_Z04I04_MusicRoom: {}

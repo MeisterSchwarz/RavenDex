@@ -101,6 +101,22 @@ DM_Gargoyle_CommanderF_A_01:
     fire: 30
     ice: -81
     any: -51
+DM_Human_AngryMob_A_01:
+  schools: [myth, moon]
+  locations:
+    - Darkmoor/Interiors/DM_Z03_WereHollow
+  affinities:
+    death: 30
+    any: -42
+    life: -72
+DM_Human_AngryMob_A_02:
+  schools: [life, moon]
+  locations:
+    - Darkmoor/Interiors/DM_Z03_WereHollow
+  affinities:
+    death: 30
+    any: -36
+    life: -66
 DM_Human_LabAssistant_A_01: {}
 DM_Human_LabAssistant_A_03: {}
 DM_Human_Werewolf_A_01:
@@ -265,6 +281,18 @@ DM_Vampire_Guard_A_05:
     life: 20
     any: -23
     death: -43
+DM_Werebear_Base_A_02:
+  schools: [myth, moon]
+  locations:
+    - Darkmoor/Interiors/DM_Z03_HuntingGrounds
+DM_Werebear_Base_A_04:
+  ref: DM_Werebear_Base_A_02
+DM_Werebear_Base_A_06:
+  ref: DM_Werebear_Base_A_02
+DM_Werebear_Base_E_01:
+  schools: [myth, moon]
+  locations:
+    - Darkmoor/Interiors/DM_Z03_HuntingGrounds
 DM_Werewolf_Base_A_01:
   schools: [myth, moon]
   locations:
@@ -273,4 +301,8 @@ DM_Werewolf_Base_A_01:
     storm: 15
     any: -15
     myth: -30
+DM_Werewolf_Base_A_04:
+  schools: [life, moon]
+  locations:
+    - Darkmoor/DM_Z03_HowlingLands
 DM_Werewolf_Lord_A_01: {}

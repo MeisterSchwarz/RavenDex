@@ -1,31 +1,40 @@
 AH_BirdMonster_Base_A_03:
   schools: [myth]
 AH_Khrulhu_Base_A_01:
-  locations: [207]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I07_FinalTear
   schools: [death, myth]
 AH_Khrulhu_PriestF_A_01:
   schools: [myth, life]
-  locations: [205]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I05_RitualOfSacrifice
 AH_Khrulhu_Scientist_A_01:
-  locations: [207]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I07_FinalTear
   schools: [storm]
 AH_Khrulhu_Scientist_A_02:
-  locations: [2071]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I07_FinalTear_B
   schools: [storm, myth]
 AH_Khrulhu_Scientist_B_01:
-  locations: [207]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I07_FinalTear
   schools: [myth]
 AH_Khrulhu_Scientist_B_02:
-  locations: [2071]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I07_FinalTear_B
   schools: [myth, storm]
 AH_Khrulhu_Soldier_A_01:
   schools: [myth, storm]
-  locations: [205]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I05_RitualOfSacrifice
 AH_Khrulhu_Soldier_A_02:
   schools: [myth]
-  locations: [205]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I05_RitualOfSacrifice
 AH_Khrulhu_Soldier_A_03:
-  locations: [207]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I07_FinalTear
   schools: [myth, life]
 AH_LandFish_Base_A_01:
   schools: [ice, myth]
@@ -34,7 +43,8 @@ AH_Octopus_Alien_A_01:
 AH_StormTitanAvatar_01:
   schools: [myth, storm]
 AH_Totem_Base_A_01:
-  locations: [208]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I08_UnstableAkasha
   schools: [star, balance]
 AH_Triwhal_Base_A_01:
   schools: [myth]

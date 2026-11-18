@@ -24,6 +24,6 @@
     "Ahmarra/Interiors/AH_Z02I10_RestingRoom": ["Überflutete Stadt", "Tempel"],
     "Ahmarra/Interiors/AH_Z03I01_ShellionHold": ["Insel des Sturms", "Panzerteufelfestung"],
     "Ahmarra/Interiors/AH_Z03I02_TurbulentWhirlpool": ["Insel des Sturms", "Turbulenter Strudel"],
-    "Ahmarra\Interiors\AH_Z03I04_StormManipulator": ["Insel des Sturms", "Sturmmanipulator"],
+    "Ahmarra/Interiors/AH_Z03I04_StormManipulator": ["Insel des Sturms", "Sturmmanipulator"],
     "Ahmarra/Interiors/AH_Z03_InsideTheStorm": ["Insel des Sturms", "Sturminneres"]
 }

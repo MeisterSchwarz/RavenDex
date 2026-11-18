@@ -1,11 +1,8 @@
 Ahmarra/AH_Z00_BaleFlotilla: {}
 Ahmarra/AH_Z01_WesternSea: {}
-Ahmarra/AH_Z02_FloodedCity:
-  id: 200
+Ahmarra/AH_Z02_FloodedCity: {}
 Ahmarra/AH_Z03_IslandOfTheStorm: {}
-  id: 300
 Ahmarra/AH_Z03_IslandOfTheStorm_B: {}
-  id: 3001
 Ahmarra/Interiors/AH_Z00I01_BesiegedShip: {}
 Ahmarra/Interiors/AH_Z00I02_HijackedShip: {}
 Ahmarra/Interiors/AH_Z00I03_DangerousWhirlpool: {}
@@ -18,15 +15,11 @@ Ahmarra/Interiors/AH_Z01I01_ForbiddenCity: {}
 Ahmarra/Interiors/AH_Z02I01_UnknownTear: {}
 Ahmarra/Interiors/AH_Z02I03_CollapsedBuilding: {}
 Ahmarra/Interiors/AH_Z02I04_DrownedPassage: {}
-Ahmarra/Interiors/AH_Z02I05_RitualOfSacrifice:
-  id: 205
+Ahmarra/Interiors/AH_Z02I05_RitualOfSacrifice: {}
 Ahmarra/Interiors/AH_Z02I06_RuinedBuildingAkashic: {}
-Ahmarra/Interiors/AH_Z02I07_FinalTear:
-  id: 207
-Ahmarra/Interiors/AH_Z02I07_FinalTear_B:
-  id: 2071
-Ahmarra/Interiors/AH_Z02I08_UnstableAkasha:
-  id: 208
+Ahmarra/Interiors/AH_Z02I07_FinalTear: {}
+Ahmarra/Interiors/AH_Z02I07_FinalTear_B: {}
+Ahmarra/Interiors/AH_Z02I08_UnstableAkasha: {}
 Ahmarra/Interiors/AH_Z02I10_RestingRoom: {}
 Ahmarra/Interiors/AH_Z03I01_ShellionHold: {}
 Ahmarra/Interiors/AH_Z03I02_TurbulentWhirlpool: {}

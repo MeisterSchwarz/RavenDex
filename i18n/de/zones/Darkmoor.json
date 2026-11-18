@@ -35,9 +35,10 @@
   "Darkmoor/Interiors/DM_Z02_VictimHouse_A": ["Ebene der Sterblichen", "Mina Clarkes Haus"],
   "Darkmoor/Interiors/DM_Z02_WoodedClearing_A": ["Ebene der Sterblichen", "Bewachsene Lichtung"],
 
-  "Darkmoor/Interiors/DM_Z03_Hideout": ["Heulende Lande", "Hochmagier des Zerbrochenen Zweigs"],
-  "Darkmoor/Interiors/DM_Z03_HuntingGrounds": ["Heulende Lande", "Jagdgründe"],
+  "Darkmoor/Interiors/DM_Z03_Hideout": ["Heulende Lande", "Versteck"],
+  "Darkmoor/Interiors/DM_Z03_HuntingGrounds": ["Heulende Lande", "Jagdgründe Bruins"],
   "Darkmoor/Interiors/DM_Z03_OvergrownEstate": ["Heulende Lande", "Zugewachsenes Anwesen"],
+  "Darkmoor/Interiors/DM_Z03_WereHollow": ["Heulende Lande", "Wer-Leere"],
   "Darkmoor/Interiors/DM_Z03_WoodedClearing": ["Heulende Lande", "Wolfsmensch"],
 
   "Darkmoor/Interiors/DM_Z04101_Shrine": ["Schwarze Lagune", "Scholomonar-Schrein"],
