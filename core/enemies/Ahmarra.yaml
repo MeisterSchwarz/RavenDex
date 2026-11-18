@@ -1,9 +1,21 @@
 AH_BirdMonster_Base_A_03:
   schools: [myth]
+AH_Jellyfish_Alien_A_01:
+  schools: [storm]
+  locations:
+    - Ahmarra/Interiors/AH_Z04I02_TurbulentWhirlpool
 AH_Khrulhu_Base_A_01:
   locations:
     - Ahmarra/Interiors/AH_Z02I07_FinalTear
   schools: [death, myth]
+AH_Khrulhu_Instructor_A_02:
+  schools: [death]
+  locations:
+    - Ahmarra/Interiors/AH_Z03I04_StormManipulator
+AH_Khrulhu_Monster_B_01:
+  schools: [death]
+  locations:
+    - Ahmarra/Interiors/AH_Z01I02_ShellionFleet
 AH_Khrulhu_PriestF_A_01:
   schools: [myth, life]
   locations:
@@ -16,6 +28,10 @@ AH_Khrulhu_Scientist_A_02:
   locations:
     - Ahmarra/Interiors/AH_Z02I07_FinalTear_B
   schools: [storm, myth]
+AH_Khrulhu_Scientist_A_03:
+  schools: [balance]
+  locations:
+    - Ahmarra/Interiors/AH_Z03I06_BatteryFarm
 AH_Khrulhu_Scientist_B_01:
   locations:
     - Ahmarra/Interiors/AH_Z02I07_FinalTear
@@ -36,8 +52,16 @@ AH_Khrulhu_Soldier_A_03:
   locations:
     - Ahmarra/Interiors/AH_Z02I07_FinalTear
   schools: [myth, life]
+AH_Koala_JudgeF_D_01:
+  schools: [death]
+  locations:
+    - Ahmarra/Interiors/AH_Z04I01_AstralPlane
 AH_LandFish_Base_A_01:
   schools: [ice, myth]
+AH_Nimbari_HelenaF_01:
+  schools: [storm]
+  locations:
+    - Ahmarra/Interiors/AH_Z03I07_StormWall
 AH_Octopus_Alien_A_01:
   schools: [storm, myth]
 AH_StormTitanAvatar_01:
@@ -54,12 +78,27 @@ AH_Turtle_ActorGiantF_A_01:
   schools: [ice]
 AH_Turtle_ActorTritonF_A_01:
   schools: [storm]
+AH_Turtle_FanaticCaptainF_A_01:
+  schools: [balance]
+  locations:
+    - Ahmarra/Interiors/AH_Z01I02_ShellionFleet
 AH_Turtle_FanaticF_B_01:
   schools: [storm, myth]
 AH_Turtle_FanaticF_C_04:
   schools: [life]
+AH_Turtle_FanaticF_D_01:
+  schools: [myth]
+  locations:
+    - Ahmarra/Interiors/AH_Z01I02_ShellionFleet
+  hp: 5015
+AH_Turtle_FanaticF_D_01B:
+  ref: AH_Turtle_FanaticF_D_01
 AH_Turtle_Fanatic_A_01:
   schools: [life]
+AH_Turtle_Fanatic_C_01:
+  schools: [storm, fire]
+  locations:
+    - Ahmarra/Interiors/AH_Z03I07_StormWall
 AH_WhaleBird_Base_A_03:
   schools: [death]
 AH_WhaleBird_Base_A_04:
