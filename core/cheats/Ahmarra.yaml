@@ -1,4 +1,4 @@
 AH_Khrulhu_Instructor_A_02:
-  notes:
-    - blade_counter
-    - aura_counter
+  mechanics:
+    - id: blade_counter
+    - id: aura_counter

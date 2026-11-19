@@ -1,4 +1,8 @@
 DM_Shadow_Trickster_A_01:
-  notes:
-    - charm_ward_counter
-    - charm_ward_counter_exceptions
+  mechanics:
+    - id: charm_ward_counter
+      notes:
+        - repeatable
+        - ignores_protection
+        - aura_exception
+        - attack_exception

@@ -1,6 +1,9 @@
 {
   "DM_Shadow_Trickster_A_01": {
-    "charm_ward_counter": "Wenn ein Spieler einen Charm oder Ward wirkt, entfernt der Gegner am Rundenende einen Effekt des zuletzt gewirkten Typs und heilt sich um 10 % seiner maximalen Lebenspunkte. Der Cheat kann mehrfach pro Runde auslösen.",
-    "charm_ward_counter_exceptions": "Auren lösen den Cheat nicht aus. Aegis und Indemnity verhindern das Entfernen nicht. Wird vor dem Entfernen des betreffenden Effekts ein Angriff gewirkt, wird der Cheat verhindert."
+    "charm_ward_counter": "Wenn ein Spieler einen Charm oder Ward wirkt, entfernt der Gegner am Rundenende einen Effekt des zuletzt gewirkten Typs und heilt sich um 10 % seiner maximalen Lebenspunkte.",
+    "repeatable": "Kann mehrfach pro Runde auslösen.",
+    "ignores_protection": "Aegis und Indemnity verhindern das Entfernen nicht.",
+    "aura_exception": "Auren lösen diesen Cheat nicht aus.",
+    "attack_exception": "Wird vor dem Entfernen des betreffenden Effekts ein Angriff gewirkt, wird der Cheat verhindert."
   }
 }

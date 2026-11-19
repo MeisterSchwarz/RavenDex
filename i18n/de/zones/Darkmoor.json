@@ -42,7 +42,7 @@
   "Darkmoor/Interiors/DM_Z03_WoodedClearing": ["Heulende Lande", "Wolfsmensch"],
 
   "Darkmoor/Interiors/DM_Z04101_Shrine": ["Schwarze Lagune", "Scholomonar-Schrein"],
-  "Darkmoor/Interiors/DM_Z04I03_DarkBog": ["Schwarze Lagune", "Schattenbildzauberer"],
+  "Darkmoor/Interiors/DM_Z04I03_DarkBog": ["Schwarze Lagune", "Finstersumpf"],
   "Darkmoor/Interiors/DM_Z04I04_MusicRoom": ["Schwarze Lagune", "Feenkreis"],
   "Darkmoor/Interiors/DM_Z04I05_BogOfSwords": ["Schwarze Lagune", "Sumpf der Schwerter"],
   "Darkmoor/Interiors/DM_Z04I06_BogOfCups": ["Schwarze Lagune", "Sumpf der Kelche"],
@@ -50,7 +50,7 @@
   "Darkmoor/Interiors/DM_Z04I08_BogOfVengeance": ["Schwarze Lagune", "Hierophantin der Zerstörung"],
   "Darkmoor/Interiors/DM_Z04I10_LiarsGrove": ["Schwarze Lagune", "Hain der Lügner"],
   "Darkmoor/Interiors/DM_Z04I11_Shack": ["Schwarze Lagune", "Alte Hütte"],
-  "Darkmoor/Interiors/DM_Z04I12_FirstBog": ["Schwarze Lagune", "Schattentrickser"],
+  "Darkmoor/Interiors/DM_Z04I12_FirstBog": ["Schwarze Lagune", "Wolkensumpf"],
   "Darkmoor/Interiors/DM_Z04I16_Music2": ["Schwarze Lagune", "Feenkreis"],
   "Darkmoor/Interiors/DM_Z04I18_Music4": ["Schwarze Lagune", "Feenkreis"],
   "Darkmoor/Interiors/DM_Z04I20ScholoMusicRoom": ["Schwarze Lagune", "Scholomantie-Musikzimmer"],
