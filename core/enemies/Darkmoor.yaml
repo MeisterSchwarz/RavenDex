@@ -14,7 +14,13 @@ DM_Bauk_Base_A_02:
     myth: 20
     any: -19
     storm: -39
-DM_Blob_Shadow_A_02: {}
+DM_Blob_Shadow_A_01:
+  schools: [shadow]
+  locations: 
+    - Darkmoor/DM_Z04_BlackLagoon
+    - Darkmoor/Interiors/DM_Z04I12_FirstBog
+DM_Blob_Shadow_A_02:
+  ref: DM_Blob_Shadow_A_01
 DM_Card_SpellCardMystical_A_01:
   locations:
     - Darkmoor/Interiors/DM_Z00I01_Fortune_A
@@ -211,6 +217,12 @@ DM_Player_BranchMinion_A_05:
 DM_Player_BranchMinion_A_06:
   ref: DM_Player_BranchMinion_A_04
 DM_Scholomari_PriestessF_B_01: {}
+DM_Shadow_Trickster_A_01:
+  schools: [shadow]
+  locations:
+    - Darkmoor/Interiors/DM_Z04I12_FirstBog
+  affinities:
+    any: -42
 DM_Vampire_Base_C_01:
   schools: [death]
   locations:

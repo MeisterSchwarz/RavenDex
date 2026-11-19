@@ -1,6 +1,7 @@
 {
   "DM_Bauk_Base_A_01": "Bauk!",
   "DM_Bauk_Base_A_02": "Bauk!",
+  "DM_Blob_Shadow_A_01": "Schattenklumpen",
   "DM_Blob_Shadow_A_02": "Schattenklumpen",
   "DM_Card_SpellCardMystical_A_01": "Die Herrscherkarte",
   "DM_Card_SpellCardMystical_B_01": "Die umgekehrte Stärkekarte",
@@ -34,6 +35,7 @@
   "DM_Player_BranchMinion_A_05": "Magier des zerbrochenen Zweiges",
   "DM_Player_BranchMinion_A_06": "Magier des zerbrochenen Zweiges",
   "DM_Scholomari_PriestessF_B_01": "Die Hierophantin der Zerstörung",
+  "DM_Shadow_Trickster_A_01": "Schattentrickser",
   "DM_Vampire_Base_C_01": "Lord Arthur Easton",
   "DM_Vampire_BaseF_B_02": "Mina Clarke",
   "DM_Vampire_BaseF_C_01": "Klerikerin Elesar",
