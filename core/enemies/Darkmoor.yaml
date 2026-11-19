@@ -21,6 +21,8 @@ DM_Blob_Shadow_A_01:
     - Darkmoor/Interiors/DM_Z04I12_FirstBog
 DM_Blob_Shadow_A_02:
   ref: DM_Blob_Shadow_A_01
+  locations:
+    - Darkmoor/Interiors/DM_Z04I08_BogOfVengeance
 DM_Card_SpellCardMystical_A_01:
   locations:
     - Darkmoor/Interiors/DM_Z00I01_Fortune_A
@@ -86,6 +88,10 @@ DM_Gargoyle_Base_A_01:
     fire: 15
     any: -17
     ice: -32
+DM_Gargoyle_Base_B_01:
+  schools: [myth]
+  locations:
+    - Darkmoor/Interiors/DM_Z04I05_BogOfSwords
 DM_Gargoyle_BaseF_A_01:
   schools: [storm]
   locations:
@@ -99,6 +105,10 @@ DM_Gargoyle_BaseF_A_02:
   locations:
     - Darkmoor/Interiors/DM_Z01I12_DarkHallway
   ref: DM_Gargoyle_BaseF_A_01
+DM_Gargoyle_BaseF_B_01:
+  schools: [fire]
+  locations:
+    - Darkmoor/Interiors/DM_Z04I05_BogOfSwords
 DM_Gargoyle_CommanderF_A_01:
   schools: [ice, life]
   locations:
@@ -216,7 +226,45 @@ DM_Player_BranchMinion_A_05:
   ref: DM_Player_BranchMinion_A_04
 DM_Player_BranchMinion_A_06:
   ref: DM_Player_BranchMinion_A_04
-DM_Scholomari_PriestessF_B_01: {}
+DM_Player_ScholomariF_B_01:
+  schools: [death]
+  locations:
+    - Darkmoor/Interiors/DM_Z04I05_BogOfSwords
+  affinities:
+    life: 15
+    death: -28
+    any: -13
+DM_Scholomari_PriestessF_B_01:
+  schools: [ice, storm]
+  locations:
+    - Darkmoor/Interiors/DM_Z04I08_BogOfVengeance
+  affinities:
+    fire: 30
+    ice: -75
+    storm: -63
+    any: -45
+DM_Scholomari_WitchF_A_02:
+  schools: [death]
+  locations:
+    - Darkmoor/DM_Z04_BlackLagoon
+DM_Scholomari_WitchF_A_03:
+  schools: [ice]
+  locations:
+    - Darkmoor/Interiors/DM_Z04I05_BogOfSwords
+DM_Scholomari_WitchF_A_03_B:
+  ref: DM_Scholomari_WitchF_A_03
+DM_Scholomari_WitchF_A_07:
+  schools: [star]
+  locations:
+    - Darkmoor/Interiors/DM_Z04I21_ShrineSideWindow
+DM_Scholomari_WitchF_B_03:
+  schools: [storm]
+  locations:
+    - Darkmoor/Interiors/DM_Z04I05_BogOfSwords
+  affinities:
+    myth: 15
+    storm: -24
+    any: -9
 DM_Shadow_Trickster_A_01:
   schools: [shadow]
   locations:
@@ -247,6 +295,14 @@ DM_Vampire_BaseF_C_01:
     life: 30
     any: -37
     death: -67
+DM_Vampire_Bat_B_02:
+  schools: [death]
+  locations:
+    - Darkmoor/Interiors/DM_Z04I06_BogOfCups
+  affinities:
+    life: 20
+    any: -30
+    death: -50
 DM_Vampire_Bat_D_01:
   schools: [death, star]
   locations:

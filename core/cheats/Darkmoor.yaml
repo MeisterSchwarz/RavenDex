@@ -1,3 +1,21 @@
+DM_Scholomari_PriestessF_B_01:
+  mechanics:
+    - id: minion_buff_copy
+      notes:
+        - minion_buff_variants
+    - id: random_chain_lightning
+    - id: forced_spell_cycle
+      notes:
+        - forced_spell_variants
+        - cleanup_damage
+      schedule:
+        repeat: 3
+        events:
+          - round: 1
+            text: forced_spell
+          - round: 3
+            timing: end
+            text: forced_spell_cleanup
 DM_Shadow_Trickster_A_01:
   mechanics:
     - id: charm_ward_counter

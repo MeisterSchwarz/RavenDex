@@ -84,10 +84,6 @@ AH_Khrulhu_Soldier_A_03:
   schools: [myth, life]
   locations:
     - Ahmarra/Interiors/AH_Z02I07_FinalTear
-AH_Khrulhu_Soldier_A_04:
-  schools: [myth]
-  location: 
-    - Ahmarra/AH_Z07_AkashicCityB
 AH_Khrulhu_Stars_A_02:
   schools: [life]
   locations:

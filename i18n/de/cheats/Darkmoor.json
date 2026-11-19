@@ -1,4 +1,14 @@
 {
+  "DM_Scholomari_PriestessF_B_01": {
+    "minion_buff_copy": "Wenn die Bossgegnerin einen Buff wirkt, wirken ihre Diener ähnliche Verstärkungen desselben Typs.",
+    "minion_buff_variants": "Mögliche Dienerzauber: Stormblade; Magnify, Sleet Storm oder Empowerment; Ice Trap oder Storm Trap; Balanceblade, Iceblade (+45 %) oder Stormblade. Die Ansage zu Kampfbeginn hat selbst keinen Effekt.",
+    "random_chain_lightning": "Unterbricht zufällig den Kampf und wirkt Chain Lightning als Cheat.",
+    "forced_spell_cycle": "Zwingt einen zufälligen Spieler zu einem Zauber. Zwei Runden später folgt die Bestrafung; anschließend beginnt der Zyklus erneut.",
+    "forced_spell": "Ein zufälliger Spieler wird zum Zaubern gezwungen.",
+    "forced_spell_cleanup": "Entfernt die erzwungenen Effekte und verursacht pro entferntem Effekt Schaden in Höhe von 10 % der maximalen Lebenspunkte des Spielers.",
+    "forced_spell_variants": "Möglich sind Elementare Schwäche (−15 %), drei Feuer-DoTs (je 50 Schaden nach 5 Runden), drei Heilungen über Zeit (je 50 Lebenspunkte nach 5 Runden) oder Geistklingen (+15 %).",
+    "cleanup_damage": "Klingen und Schwächen werden durch einen Eiszauber entfernt, DoTs und Heilungen über Zeit durch einen Sturmzauber."
+  },
   "DM_Shadow_Trickster_A_01": {
     "charm_ward_counter": "Wenn ein Spieler einen Charm oder Ward wirkt, entfernt der Gegner am Rundenende einen Effekt des zuletzt gewirkten Typs und heilt sich um 10 % seiner maximalen Lebenspunkte.",
     "repeatable": "Kann mehrfach pro Runde auslösen.",
