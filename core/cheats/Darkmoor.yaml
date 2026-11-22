@@ -17,6 +17,9 @@ DM_Scholomari_PriestessF_B_01:
             timing: end
             text: forced_spell_cleanup
 DM_Shadow_Trickster_A_01:
+  strategy:
+    - strategy_auras
+    - strategy_attack
   mechanics:
     - id: charm_ward_counter
       notes:

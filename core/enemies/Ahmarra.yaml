@@ -1,22 +1,21 @@
 Adv_AH_StormTitanAvatar_C_04:
+  schools: [storm, fire]
   variant_of: AH_StormTitanAvatar_C_04
   mode: challenge
   locations:
     - Ahmarra/Interiors/AH_Z10I07_SkallofJudgement_Hard
 Adv_AH_StormTitanAvatar_C_05:
+  schools: [storm, death]
   variant_of: AH_StormTitanAvatar_C_05
   mode: challenge
   locations:
     - Ahmarra/Interiors/AH_Z10I07_SkallofJudgement_Hard
 Adv_AH_StormTitanAvatar_C_06:
+  schools: [storm, life]
   variant_of: AH_StormTitanAvatar_C_06
   mode: challenge
   locations:
     - Ahmarra/Interiors/AH_Z10I07_SkallofJudgement_Hard
-affinities:
-  myth: -7
-  any: -74
-  storm: -104
 AH_BirdMonster_Base_A_03:
   schools: [myth]
 AH_BirdMonster_Base_C_01:

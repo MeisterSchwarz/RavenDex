@@ -10,6 +10,8 @@
     "cleanup_damage": "Klingen und Schwächen werden durch einen Eiszauber entfernt, DoTs und Heilungen über Zeit durch einen Sturmzauber."
   },
   "DM_Shadow_Trickster_A_01": {
+    "strategy_auras": "Nutze Auren für Verstärkungen: Sie lösen diesen Cheat nicht aus.",
+    "strategy_attack": "Wenn du Charms oder Wards einsetzt, wirke vor deren Entfernung einen Angriff, um den Cheat zu verhindern.",
     "charm_ward_counter": "Wenn ein Spieler einen Charm oder Ward wirkt, entfernt der Gegner am Rundenende einen Effekt des zuletzt gewirkten Typs und heilt sich um 10 % seiner maximalen Lebenspunkte.",
     "repeatable": "Kann mehrfach pro Runde auslösen.",
     "ignores_protection": "Aegis und Indemnity verhindern das Entfernen nicht.",
