@@ -6,10 +6,10 @@
   "AH_StormTitanAvatar_C_05": {
     "objections": "Die Richter erheben Einwände, denen zufällig stattgegeben wird oder die überstimmt werden.",
     "overruled_permanent": "Wird ein Einwand überstimmt, bleibt er für den restlichen Kampf überstimmt.",
-    "trap_objection": "Fallen auf den Sturm/Leben- oder Sturm/Feuer-Richter lösen Einwände aus.",
+    "trap_objection": "Fallen auf den {life_judge} oder den {fire_judge} lösen Einwände aus.",
     "blade_objection": "Klingen lösen Einwände aus. Konter: Brimstone Revenant auf den Zaubernden.",
     "blade_trigger_uncertain": "Die genauen Klingen-Auslöser sind teilweise unbestätigt.",
-    "dot_objection": "Ein DoT auf den Sturm/Leben-Richter führt zu Taweret durch den betroffenen Richter.",
+    "dot_objection": "Ein DoT auf den {life_judge} führt zu Taweret durch den betroffenen Richter.",
     "repeated_actions": "Wiederholte Aktionen innerhalb einer Runde: eigene Klingen → Enfeeble; Fallen → Reinigungsschutz auf allen Gegnern je Falle; Empower → Heilung aller Gegner.",
     "aoe_objection": "Flächenangriffe werden mit Pigsie gekontert.",
     "strategy_theodolite": "Am Theodolit „Baba Yaga“ auswählen und eine Mythosfalle auf den {life_judge} wirken.",

@@ -1,3 +1,20 @@
+balaur:
+  strategy:
+    - defeat_order
+DM_Dox_Base_B_01:
+  mechanics:
+    - id: opening_effects
+      schedule:
+        events:
+          - round: 1
+            timing: start
+            text: opening_effects_details
+    - id: revive_with_effects
+      notes:
+        - removal_spells
+    - id: damage_charm_ward_counter
+  strategy:
+    - strategy_aura_attacks
 DM_Scholomari_PriestessF_B_01:
   mechanics:
     - id: minion_buff_copy

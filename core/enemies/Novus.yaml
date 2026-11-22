@@ -1,16 +1,22 @@
 AH_Brain_Fog_A_01:
   schools: [myth, life]
+  locations:
+    - Novus/Interiors/NV_Z08_OldOneMemories
   affinities:
     storm: 15
     myth: -15
     any: -13
 AH_Brain_Fog_A_02:
   schools: [myth, storm]
+  locations:
+    - Novus/Interiors/NV_Z08_OldOneMemories
   affinities:
     storm: 15
     myth: -15
     any: -13
 AH_Whiplash_Base_B_01:
+  locations:
+    - Novus/Interiors/NV_Z08_OldOneMemories
   schools: [myth]
   affinities:
     storm: 30

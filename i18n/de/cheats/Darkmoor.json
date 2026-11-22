@@ -1,4 +1,15 @@
 {
+  "balaur": {
+    "defeat_order": "Köpfe in dieser Reihenfolge besiegen: Balance → Leben/Mythos → Tod/Feuer → Eis/Sturm."
+  },
+  "DM_Dox_Base_B_01": {
+    "opening_effects": "Wirkt Schilde oder Heilungen über Zeit auf sich.",
+    "opening_effects_details": "Sieben −80-%-Schilde (alle Schulen inkl. Balance) oder vier Heilungen: je 52 LP pro Runde für 50 Runden.",
+    "revive_with_effects": "Bei Niederlage mit aktiven Effekten: Wiederbelebung mit 50 % LP und erneute Effekte.",
+    "removal_spells": "Nach dem ersten Besiegen erhält jeder beim Wiederbeleben den passenden Entfernungszauber: Shatter (Schilde) oder Decapitate (Heilungen).",
+    "damage_charm_ward_counter": "Schadensklingen oder Schadensfallen auf den Boss: Alle Spieler verlieren 20 % ihrer maximalen LP.",
+    "strategy_aura_attacks": "Aura nutzen und mehrfach angreifen."
+  },
   "DM_Scholomari_PriestessF_B_01": {
     "minion_buff_copy": "Wenn die Bossgegnerin einen Buff wirkt, wirken ihre Diener ähnliche Verstärkungen desselben Typs.",
     "minion_buff_variants": "Mögliche Dienerzauber: Stormblade; Magnify, Sleet Storm oder Empowerment; Ice Trap oder Storm Trap; Balanceblade, Iceblade (+45 %) oder Stormblade. Die Ansage zu Kampfbeginn hat selbst keinen Effekt.",

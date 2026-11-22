@@ -10,10 +10,18 @@ AH_StormTitanAvatar_C_05:
       notes:
         - overruled_permanent
     - id: trap_objection
+      enemies:
+        life_judge:
+          enemy: AH_StormTitanAvatar_C_06
+        fire_judge:
+          enemy: AH_StormTitanAvatar_C_04
     - id: blade_objection
       notes:
         - blade_trigger_uncertain
     - id: dot_objection
+      enemies:
+        life_judge:
+          enemy: AH_StormTitanAvatar_C_06
     - id: repeated_actions
     - id: aoe_objection
   strategy:

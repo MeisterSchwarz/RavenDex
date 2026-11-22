@@ -70,12 +70,18 @@ DM_Dox_Base_B_01:
     life: 30
     any: -42
     death: -72
+DM_Dragon_BalaurHead_A_01:
+  schools: [balance]
+DM_Dragon_BalaurHead_A_02:
+  schools: [life, myth]
 DM_Dragon_BalaurHead_A_03:
+  schools: [death, fire]
   affinities:
     ice: 22
     fire: -74
     any: -44
 DM_Dragon_BalaurHead_A_04:
+  schools: [ice, storm]
   affinities:
     fire: 38
     ice: -75
