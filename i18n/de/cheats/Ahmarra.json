@@ -12,7 +12,6 @@
     "dot_objection": "Ein DoT auf den Sturm/Leben-Richter führt zu Taweret durch den betroffenen Richter.",
     "repeated_actions": "Wiederholte Aktionen innerhalb einer Runde: eigene Klingen → Enfeeble; Fallen → Reinigungsschutz auf allen Gegnern je Falle; Empower → Heilung aller Gegner.",
     "aoe_objection": "Flächenangriffe werden mit Pigsie gekontert.",
-    "life_judge": "Lebensrichter",
     "strategy_theodolite": "Am Theodolit „Baba Yaga“ auswählen und eine Mythosfalle auf den {life_judge} wirken.",
     "strategy_verdict": "Bei „Überstimmt“ nur noch passen. Bei „Stattgegeben“ den Kampf neu starten."
   }

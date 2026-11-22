@@ -21,5 +21,4 @@ AH_StormTitanAvatar_C_05:
       enemies:
         life_judge:
           enemy: AH_StormTitanAvatar_C_06
-          label: life_judge
     - strategy_verdict
