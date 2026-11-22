@@ -1,4 +1,25 @@
+Adv_AH_StormTitanAvatar_C_05:
+  ref: AH_StormTitanAvatar_C_05
 AH_Khrulhu_Instructor_A_02:
   mechanics:
     - id: blade_counter
     - id: aura_counter
+AH_StormTitanAvatar_C_05:
+  mechanics:
+    - id: objections
+      notes:
+        - overruled_permanent
+    - id: trap_objection
+    - id: blade_objection
+      notes:
+        - blade_trigger_uncertain
+    - id: dot_objection
+    - id: repeated_actions
+    - id: aoe_objection
+  strategy:
+    - id: strategy_theodolite
+      enemies:
+        life_judge:
+          enemy: AH_StormTitanAvatar_C_06
+          label: life_judge
+    - strategy_verdict
