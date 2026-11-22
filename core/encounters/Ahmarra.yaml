@@ -1,0 +1,12 @@
+tribunal_judges:
+  enemies:
+    - AH_StormTitanAvatar_C_05
+    - AH_StormTitanAvatar_C_04
+    - AH_StormTitanAvatar_C_06
+tribunal_judges_challenge:
+  variant_of: tribunal_judges
+  mode: challenge
+  enemies:
+    - Adv_AH_StormTitanAvatar_C_05
+    - Adv_AH_StormTitanAvatar_C_04
+    - Adv_AH_StormTitanAvatar_C_06

@@ -9,6 +9,7 @@ AH_StormTitanAvatar_C_05:
     - id: objections
       notes:
         - overruled_permanent
+        - cheat_source
     - id: trap_objection
       enemies:
         life_judge:
@@ -30,3 +31,7 @@ AH_StormTitanAvatar_C_05:
         life_judge:
           enemy: AH_StormTitanAvatar_C_06
     - strategy_verdict
+tribunal_judges:
+  ref: AH_StormTitanAvatar_C_05
+tribunal_judges_challenge:
+  ref: AH_StormTitanAvatar_C_05

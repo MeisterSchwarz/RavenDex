@@ -23,6 +23,7 @@
     "Ahmarra/Interiors/AH_Z01I01_ForbiddenCity": ["Westmeer", "Verbotene Stadt"],
     "Ahmarra/Interiors/AH_Z01I02_ShellionFleet": ["Westmeer", "Panzerteufelflotte"],
     "Ahmarra/Interiors/AH_Z02I01_UnknownTear": ["Überflutete Stadt", "Unbekannter Riss"],
+    "Ahmarra/Interiors/AH_Z02I02_TrapControlRoom": ["Überflutete Stadt", "Fallen-Kontrollraum"],
     "Ahmarra/Interiors/AH_Z02I03_CollapsedBuilding": ["Überflutete Stadt", "Eingestürztes Gebäude"],
     "Ahmarra/Interiors/AH_Z02I04_DrownedPassage": ["Überflutete Stadt", "Überflutete Passage"],
     "Ahmarra/Interiors/AH_Z02I05_RitualOfSacrifice": ["Überflutete Stadt", "Ritual des Opfers"],

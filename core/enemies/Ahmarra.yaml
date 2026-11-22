@@ -18,6 +18,12 @@ Adv_AH_StormTitanAvatar_C_06:
     - Ahmarra/Interiors/AH_Z10I07_SkallofJudgement_Hard
 AH_BirdMonster_Base_A_03:
   schools: [myth]
+  locations:
+    - Ahmarra/Interiors/AH_Z00I04_BirdNest
+  affinities:
+    storm: 20
+    any: -22
+    myth: -42
 AH_BirdMonster_Base_C_01:
   schools: [balance]
   locations:
@@ -58,6 +64,14 @@ AH_Kangaroo_Judge_B_02:
     fire: -63
     ice: 30
     any: -33
+AH_Khrulhu_BaseF_A_04:
+  schools: [myth, death]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I01_UnknownTear
+  affinities:
+    storm: 30
+    any: -36
+    myth: -66
 AH_Khrulhu_Base_A_01:
   locations:
     - Ahmarra/Interiors/AH_Z02I07_FinalTear
@@ -122,6 +136,10 @@ AH_Khrulhu_PriestF_A_01:
   schools: [myth, life]
   locations:
     - Ahmarra/Interiors/AH_Z02I05_RitualOfSacrifice
+  affinities:
+    storm: 30
+    any: -36
+    myth: -66
 AH_Khrulhu_Scientist_A_01:
   locations:
     - Ahmarra/Interiors/AH_Z02I07_FinalTear
@@ -150,6 +168,10 @@ AH_Khrulhu_Soldier_A_02:
   schools: [myth]
   locations:
     - Ahmarra/Interiors/AH_Z02I05_RitualOfSacrifice
+  affinities:
+    storm: 20
+    any: -22
+    myth: -42
 AH_Khrulhu_Soldier_A_03:
   schools: [myth, life]
   locations:
@@ -168,8 +190,10 @@ AH_Khrulhu_Stars_A_02:
     - Ahmarra/Interiors/AH_Z06I05_BombshellStockpile
 AH_Khrulhu_Stars_A_03:
   ref: AH_Khrulhu_Stars_A_02
-AH_Khrulhu_Stars_A_04:
-  ref: AH_Khrulhu_Stars_A_02
+AH_Khrulhu_Stars_A_14:
+  schools: [storm]
+  locations:
+    - Ahmarra/Interiors/AH_Z09I07_ShrineofUsuKieil
 AH_Khrulhu_TreeF_A_01:
   schools: [life]
   locations:
@@ -208,10 +232,16 @@ AH_Kraken_Base_A_02:
     - Ahmarra/Interiors/AH_Z10I06_SecondCrossing
 AH_LandFish_Base_A_01:
   schools: [ice, myth]
+  locations:
+    - Ahmarra/AH_Z02_FloodedCity
 AH_MC_Kraken_Model_01:
   schools: [storm]
   locations:
     - Ahmarra/AH_Z08_AkashicCityY
+AH_Moose_Fighter_B_01:
+  schools: [life]
+  locations:
+    - Ahmarra/Interiors/AH_Z09I07_ShrineofUsuKieil
 AH_Nimbari_HelenaF_01:
   schools: [storm]
   locations:
@@ -232,6 +262,8 @@ AH_Player_Never_A_01:
     - Ahmarra/Interiors/AH_Z09I06_NightmareShrine
 AH_StormTitanAvatar_01:
   schools: [myth, storm]
+  locations:
+    - Ahmarra/Interiors/AH_Z02I03_CollapsedBuilding
 AH_StormTitanAvatar_C_01:
   schools: [storm, myth]
   locations:
@@ -276,10 +308,46 @@ AH_Triwhal_Base_A_04:
     ice: -138
 AH_Turtle_ActorDragonF_A_01:
   schools: [fire]
+  locations:
+    - Ahmarra/Interiors/AH_Z00I05_MockUp
+  affinities:
+    ice: 30
+    any: -33
+    fire: -63
+AH_Turtle_ActorEldritchF_A_01:
+  schools: [balance]
+  locations:
+    - Ahmarra/Interiors/AH_Z00I05_MockUp
+  affinities:
+    myth: 15
+    life: 15
+    death: 15
+    any: -13
+    balance: -33
 AH_Turtle_ActorGiantF_A_01:
   schools: [ice]
+  locations:
+    - Ahmarra/Interiors/AH_Z00I05_MockUp
+  affinities:
+    ice: -87
+    any: -57
+    fire: 30
 AH_Turtle_ActorTritonF_A_01:
   schools: [storm]
+  locations:
+    - Ahmarra/Interiors/AH_Z00I05_MockUp
+  affinities:
+    myth: 30
+    any: -30
+    storm: -60
+AH_Turtle_Actor_QuestionF_A_01:
+  schools: [death]
+  locations:
+    - Ahmarra/Interiors/AH_Z00I05_MockUp
+AH_Turtle_Actor_QuestionF_A_02:
+  ref: AH_Turtle_Actor_QuestionF_A_01
+AH_Turtle_Actor_QuestionF_A_03:
+  ref: AH_Turtle_Actor_QuestionF_A_01
 AH_Turtle_Fanatic_A_01:
   schools: [life]
 AH_Turtle_Fanatic_B_04:
@@ -310,10 +378,28 @@ AH_WhaleBird_Base_A_01:
     - Ahmarra/Interiors/AH_Z04I03_WhalebirdLagoon
 AH_WhaleBird_Base_A_03:
   schools: [death]
+  locations:
+    - Ahmarra/Interiors/AH_Z00I03_DangerousWhirlpool
+  affinities:
+    life: 15
+    death: -33
+    any: -18
 AH_WhaleBird_Base_A_04:
   schools: [ice]
+  locations:
+    - Ahmarra/Interiors/AH_Z00_ProvisionShip
+  affinities:
+    fire: 30
+    any: -57
+    ice: -87
 AH_WhaleBird_Base_B_01:
   schools: [death, storm]
+  locations: 
+    - Ahmarra/Interiors/AH_Z00I03_DangerousWhirlpool
+  affinities:
+    life: 30
+    any: -45
+    death: -75
 AH_Whiplash_Base_A_01:
   schools: [storm]
   locations:

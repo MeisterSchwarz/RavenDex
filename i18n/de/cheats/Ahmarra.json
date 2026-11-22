@@ -6,6 +6,7 @@
   "AH_StormTitanAvatar_C_05": {
     "objections": "Die Richter erheben Einwände, denen zufällig stattgegeben wird oder die überstimmt werden.",
     "overruled_permanent": "Wird ein Einwand überstimmt, bleibt er für den restlichen Kampf überstimmt.",
+    "cheat_source": "Die Cheats gehen vom Sturm/Tod-Richter aus. Sobald er besiegt ist, gibt es keine Cheats mehr.",
     "trap_objection": "Fallen auf den {life_judge} oder den {fire_judge} lösen Einwände aus.",
     "blade_objection": "Klingen lösen Einwände aus. Konter: Brimstone Revenant auf den Zaubernden.",
     "blade_trigger_uncertain": "Die genauen Klingen-Auslöser sind teilweise unbestätigt.",
