@@ -176,22 +176,22 @@ DM_Khrulhu_Instructor_A_02:
     fire: 30
     ice: -83
     any: -53
-DM_Mutant_Darkmoor_A_01:  
+DM_Mutant_Darkmoor_A_01:
+  schools: [death, balance]
+  locations:
+    - Darkmoor/Interiors/DM_Z01I13_SecretLab  
   affinities:
     life: 30
     any: -49
     death: -79
 DM_Mutant_Darkmoor_A_02: 
-  affinities:
-    life: 30
-    any: -49
-    death: -79
+  ref: DM_Mutant_Darkmoor_A_01
 DM_Mutant_Darkmoor_A_03: 
-  affinities:
-      life: 30
-      any: -49
-      death: -79
-DM_Mutant_Robe_A_01: 
+  ref: DM_Mutant_Darkmoor_A_01
+DM_Mutant_Robe_A_01:
+  schools: [death, balance]
+  locations:
+    - Darkmoor/Interiors/DM_Z01I13_SecretLab
   affinities:
     life: 30
     any: -49
@@ -271,6 +271,16 @@ DM_Shadow_Trickster_A_01:
     - Darkmoor/Interiors/DM_Z04I12_FirstBog
   affinities:
     any: -42
+DM_Tree_Mini_Bartleby_A_01:
+  schools: [balance]
+  locations:
+    - Darkmoor/Interiors/DM_Z05I03_HallOfDefilement
+  affinities:
+    death: 30
+    life: 30
+    myth: 30
+    any: -35
+    balance: -65
 DM_Vampire_Base_C_01:
   schools: [death]
   locations:
