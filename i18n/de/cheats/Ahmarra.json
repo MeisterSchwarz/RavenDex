@@ -5,8 +5,8 @@
     "harmful_aura_counter": "Schädliche Aura auf den Präzeptor: {spell:Poison (Tier 3b)} auf den Zaubernden."
   },
   "AH_StormTitanAvatar_C_05": {
-    "opening_global": "Kampfbeginn: {fire_judge} wirkt den Globalzauber des gewählten Professors. Bei Baba Yaga: {spell:Time of Legend}.",
-    "objections": "„Stattgegeben“ löst den Konter aus. „Überstimmt“ deaktiviert den Einwand für den restlichen Kampf.",
+    "opening_global": "Zu Kampfbeginn wirkt {fire_judge} einen Globalzauber, der vom gewählten Professor abhängt.",
+    "objections": "Die Richter erheben bei bestimmten Aktionen Einwände. Ob einem Einwand stattgegeben wird oder er überstimmt wird, ist zufällig. Bei „Stattgegeben“ folgt der Konter. Bei „Überstimmt“ entfällt er, und dieser Einwand löst für den restlichen Kampf nicht mehr aus.",
     "fire_objections": "{fire_judge}: Zauber außerhalb der Schule des Globalzaubers oder der eigenen Schule → {spell:Brimstone Revenant}.",
     "death_objections": "{death_judge}: Ein positiver Charm entfernt alle positiven Charms der Spieler, auch mit Aegis. Wiederholt ein Spieler denselben Aktionstyp im selben Zug, folgt ein Konter.",
     "repeated_action_counters": "Fallen → Cleanse Ward, Schilde → Shatter, negative Charms → Cleanse, positive Charms → Enfeeble, Pip-Opfer → ca. 4.500 LP Heilung für alle Richter. Professoren-Cheats zählen nicht.",

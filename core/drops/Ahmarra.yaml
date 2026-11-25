@@ -1,8 +1,17 @@
 tribunal_judges:
   reagents:
     - item: akashic_records
-      total: 5
-      runs: 1
-
+      total: 20
+      runs: 4
+  spellements:
+    - item: shu
+      total: 4
+      runs: 3
+    - item: the_hierophant
+      total: 4
+      runs: 3
+    - item: wobbegong_frenzy
+      total: 6
+      runs: 3
 tribunal_judges_challenge:
   ref: tribunal_judges
