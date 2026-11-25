@@ -120,6 +120,10 @@ AH_Khrulhu_Instructor_A_02:
   schools: [death]
   locations:
     - Ahmarra/Interiors/AH_Z03I04_StormManipulator
+  affinities:
+    life: 30
+    any: -39
+    death: -69
 AH_Khrulhu_Monster_B_01:
   schools: [death]
   locations:
@@ -152,6 +156,12 @@ AH_Khrulhu_Scientist_A_03:
   schools: [balance]
   locations:
     - Ahmarra/Interiors/AH_Z03I06_BatteryFarm
+  affinities:
+    balance: -66
+    any: -36
+    death: 30
+    myth: 30
+    life: 30
 AH_Khrulhu_Scientist_B_01:
   locations:
     - Ahmarra/Interiors/AH_Z02I07_FinalTear
@@ -296,6 +306,11 @@ AH_Totem_Base_A_01:
   locations:
     - Ahmarra/Interiors/AH_Z02I08_UnstableAkasha
   schools: [star, balance]
+  affinities:
+    ice: 30
+    any: -36
+    life: -66
+    storm: -66
 AH_Triwhal_Base_A_01:
   schools: [myth]
 AH_Triwhal_Base_A_04:
@@ -364,6 +379,10 @@ AH_Turtle_Fanatic_C_01:
   schools: [storm, fire]
   locations:
     - Ahmarra/Interiors/AH_Z03I07_StormWall
+  affinities:
+    myth: 30
+    any: -30
+    storm: -60
 AH_Turtle_FanaticCaptainF_A_01:
   schools: [balance]
   locations:

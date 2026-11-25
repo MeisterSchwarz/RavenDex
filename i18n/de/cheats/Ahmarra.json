@@ -1,19 +1,20 @@
 {
   "AH_Khrulhu_Instructor_A_02": {
-    "blade_counter": "Wenn ein Spieler eine Klinge wirkt, setzt der Gegner Winged Sorrow ein: Entfernt alle Klingen und ersetzt sie durch zwei Schwächen.",
-    "aura_counter": "Wenn ein Spieler eine Aura wirkt, setzt der Gegner Monster Mash ein und entfernt die Aura."
+    "blade_counter": "Positiver Charm: {spell:Winged Sorrow} entfernt den Charm und gibt dem Zaubernden eine Schadensschwäche (−25 %).",
+    "aura_counter": "Positive Aura: {spell:Monster Mash} gibt dem Zaubernden zwei Schadensschwächen (je −50 %).",
+    "harmful_aura_counter": "Schädliche Aura auf den Präzeptor: {spell:Poison (Tier 3b)} auf den Zaubernden."
   },
   "AH_StormTitanAvatar_C_05": {
     "objections": "Die Richter erheben Einwände, denen zufällig stattgegeben wird oder die überstimmt werden.",
     "overruled_permanent": "Wird ein Einwand überstimmt, bleibt er für den restlichen Kampf überstimmt.",
-    "cheat_source": "Die Cheats gehen vom Sturm/Tod-Richter aus. Sobald er besiegt ist, gibt es keine Cheats mehr.",
-    "trap_objection": "Fallen auf den {life_judge} oder den {fire_judge} lösen Einwände aus.",
+    "cheat_source": "Die Cheats gehen von {death_judge} aus. Sobald er besiegt ist, gibt es keine Cheats mehr.",
+    "trap_objection": "Fallen auf {life_judge} / {fire_judge} lösen Einwände aus.",
     "blade_objection": "Klingen lösen Einwände aus. Konter: Brimstone Revenant auf den Zaubernden.",
-    "blade_trigger_uncertain": "Die genauen Klingen-Auslöser sind teilweise unbestätigt.",
-    "dot_objection": "Ein DoT auf den {life_judge} führt zu Taweret durch den betroffenen Richter.",
+    "blade_trigger_uncertain": "Die genauen Klingen-Auslöser sind unbestätigt.",
+    "dot_objection": "DoT auf {life_judge} löst {spell:Taweret} aus",
     "repeated_actions": "Wiederholte Aktionen innerhalb einer Runde: eigene Klingen → Enfeeble; Fallen → Reinigungsschutz auf allen Gegnern je Falle; Empower → Heilung aller Gegner.",
-    "aoe_objection": "Flächenangriffe werden mit Pigsie gekontert.",
-    "strategy_theodolite": "Am Theodolit „Baba Yaga“ auswählen und eine Mythosfalle auf den {life_judge} wirken.",
+    "aoe_objection": "Flächenangriffe werden mit {spell:Pigsie} gekontert.",
+    "strategy_theodolite": "Am Theodolit „Baba Yaga“ auswählen und {spell:Mythosfalle} auf {life_judge} wirken.",
     "strategy_verdict": "Bei „Überstimmt“ nur noch passen. Bei „Stattgegeben“ den Kampf neu starten."
   }
 }

@@ -4,6 +4,7 @@ AH_Khrulhu_Instructor_A_02:
   mechanics:
     - id: blade_counter
     - id: aura_counter
+    - id: harmful_aura_counter
 AH_StormTitanAvatar_C_05:
   mechanics:
     - id: objections
@@ -16,6 +17,8 @@ AH_StormTitanAvatar_C_05:
           enemy: AH_StormTitanAvatar_C_06
         fire_judge:
           enemy: AH_StormTitanAvatar_C_04
+        death_judge:
+          enemy: AH_StormTitanAvatar_C_05
     - id: blade_objection
       notes:
         - blade_trigger_uncertain

@@ -1,6 +1,6 @@
 {
-    "tc_feint": "Täuschen",
-    "tc_ice_trap": "Eisfalle",
-    "tc_spirit_trap": "Geisterfalle",
-    "tc_storm_trap": "Sturmfalle"
+    "feint": "Täuschen",
+    "ice_trap": "Eisfalle",
+    "spirit_trap": "Geisterfalle",
+    "storm_trap": "Sturmfalle"
 }

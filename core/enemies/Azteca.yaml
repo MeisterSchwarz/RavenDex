@@ -1,5 +1,12 @@
-AZ-Caiman-Guard-A: {}
-AZ-Elemental-Spirit-D: {}
+AZ-Caiman-Guard-A:
+  schools: [life]
+  locations:
+    - Azteca/Interiors/AZ_Z06_Cave02
+AZ-Elemental-Spirit-D:
+  schools: [storm]
+  locations:
+    - Azteca/AZ_Z06_CloudburstIsland
+    - Azteca/Interiors/AZ_Z06_Cave02
 AZ-Goliath-Crusher-C: 
   affinities:
     storm: 40
@@ -10,18 +17,48 @@ AZ-Jaguar-Shaman-D:
     fire: -40
     ice: 40
     storm: 40
-AZ-Parasaur-drkPriestF-C: {}
-AZ-Parrot-Hunter-H: {}
-AZ-Parrot-Hunter-K: {}
+AZ-Parasaur-drkPriestF-C:
+  schools: [balance]
+  locations:
+    - Azteca/Interiors/AZ_Z06_Cave01
+AZ-Parrot-HunterF-B:
+  schools: [fire]
+  locations:
+    - Azteca/Interiors/AZ_Z05_Tower02
+AZ-Parrot-Hunter-F:
+  schools: [life]
+  locations:
+    - Azteca/Interiors/AZ_Z05_Tower02
+AZ-Parrot-Hunter-H:
+  schools: [ice]
+  locations:
+    - Azteca/AZ_Z06_CloudburstIsland
+AZ-Parrot-Hunter-K:
+  schools: [balance]
+  locations:
+    - Azteca/Interiors/AZ_Z06_Clearing01
 AZ-Pteranodon-Knight-A-PageEvent:
   affinities:
     fire: -40
     ice: 40
     storm: 40
-AZ-Shdweave-Warrior-C: {}
-AZ-Shdweave-Warrior-D: {}
-AZ-Shdweave-Warrior-E: {}
-AZ-Toucan-Warrior-A: {}
+AZ-Shdweave-Warrior-C:
+  schools: [balance]
+  locations:
+    - Azteca/AZ_Z05_ZultunDock
+    - Azteca/Interiors/AZ_Z05_CharredTower
+AZ-Shdweave-Warrior-D:
+  schools: [life]
+  locations:
+    - Azteca/Interiors/AZ_Z06_Clearing01
+AZ-Shdweave-Warrior-E:
+  schools: [balance]
+  locations:
+    - Azteca/Interiors/AZ_Z05_CharredTower
+AZ-Toucan-Warrior-A:
+  schools: [fire]
+  locations:
+    - Azteca/AZ_Z09_AltoAlto
 Student-Fire-PageEvent:
   affinities: 
     ice: -11

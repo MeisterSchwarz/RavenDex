@@ -1,8 +1,8 @@
-tc_feint:
+feint:
     school: death
-tc_ice_trap:
+ice_trap:
     school: ice
-tc_spirit_trap:
+spirit_trap:
     school: balance
-tc_storm_trap:
+storm_trap:
     school: storm

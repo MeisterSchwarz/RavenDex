@@ -1,0 +1,8 @@
+tribunal_judges:
+  reagents:
+    - item: akashic_records
+      total: 5
+      runs: 1
+
+tribunal_judges_challenge:
+  ref: tribunal_judges

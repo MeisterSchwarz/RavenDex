@@ -28,6 +28,8 @@
   "Marleybone/MB_ScotlandYard/MB_KnightsCourt": "Knight's Court",
   "Marleybone/MB_ScotlandYard/MB_Prison": "Newgate-Gefängnis",
   "Marleybone/MB_ScotlandYard/MB_Roof": "Dach von Scotland Yard",
+  "Marleybone/MB_Station/Interiors/MB_Ironworks_T1": ["Die Eisenhütte", "Nails O'Leary"],
+  "Marleybone/MB_Station/Interiors/MB_Ironworks_T5": ["Die Eisenhütte", "Brady der Schleicher"],
   "Marleybone/MB_Station/MB_FlightToHydePark": "Ballonwagen z. Hyde Park",
   "Marleybone/MB_Station/MB_Ironworks": "Die Eisenhütte",
   "Marleybone/MB_Station/MB_Station_Hub": "Digmoore Station",
