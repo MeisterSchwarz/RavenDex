@@ -5,15 +5,12 @@
     "harmful_aura_counter": "Schädliche Aura auf den Präzeptor: {spell:Poison (Tier 3b)} auf den Zaubernden."
   },
   "AH_StormTitanAvatar_C_05": {
-    "objections": "Die Richter erheben Einwände, denen zufällig stattgegeben wird oder die überstimmt werden.",
-    "overruled_permanent": "Wird ein Einwand überstimmt, bleibt er für den restlichen Kampf überstimmt.",
-    "cheat_source": "Die Cheats gehen von {death_judge} aus. Sobald er besiegt ist, gibt es keine Cheats mehr.",
-    "trap_objection": "Fallen auf {life_judge} / {fire_judge} lösen Einwände aus.",
-    "blade_objection": "Klingen lösen Einwände aus. Konter: Brimstone Revenant auf den Zaubernden.",
-    "blade_trigger_uncertain": "Die genauen Klingen-Auslöser sind unbestätigt.",
-    "dot_objection": "DoT auf {life_judge} löst {spell:Taweret} aus",
-    "repeated_actions": "Wiederholte Aktionen innerhalb einer Runde: eigene Klingen → Enfeeble; Fallen → Reinigungsschutz auf allen Gegnern je Falle; Empower → Heilung aller Gegner.",
-    "aoe_objection": "Flächenangriffe werden mit {spell:Pigsie} gekontert.",
+    "opening_global": "Kampfbeginn: {fire_judge} wirkt den Globalzauber des gewählten Professors. Bei Baba Yaga: {spell:Time of Legend}.",
+    "objections": "„Stattgegeben“ löst den Konter aus. „Überstimmt“ deaktiviert den Einwand für den restlichen Kampf.",
+    "fire_objections": "{fire_judge}: Zauber außerhalb der Schule des Globalzaubers oder der eigenen Schule → {spell:Brimstone Revenant}.",
+    "death_objections": "{death_judge}: Ein positiver Charm entfernt alle positiven Charms der Spieler, auch mit Aegis. Wiederholt ein Spieler denselben Aktionstyp im selben Zug, folgt ein Konter.",
+    "repeated_action_counters": "Fallen → Cleanse Ward, Schilde → Shatter, negative Charms → Cleanse, positive Charms → Enfeeble, Pip-Opfer → ca. 4.500 LP Heilung für alle Richter. Professoren-Cheats zählen nicht.",
+    "life_objections": "{life_judge}: Mehrzielzauber → {spell:Pigsie} (1.514 LP). Schaden über Zeit auf einem Richter → {spell:Taweret} entfernt den Effekt.",
     "strategy_theodolite": "Am Theodolit „Baba Yaga“ auswählen und {spell:Mythosfalle} auf {life_judge} wirken.",
     "strategy_verdict": "Bei „Überstimmt“ nur noch passen. Bei „Stattgegeben“ den Kampf neu starten."
   }
