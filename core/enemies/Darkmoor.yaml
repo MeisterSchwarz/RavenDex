@@ -66,22 +66,33 @@ DM_Card_SpellCardMystical_E_01:
     death: -66
     any: -36
 DM_Dox_Base_B_01:
+  schools: [death, fire]
+  locations:
+    - Darkmoor/Interiors/DM_Z05_HereticalAcademy
   affinities:
     life: 30
     any: -42
     death: -72
 DM_Dragon_BalaurHead_A_01:
   schools: [balance]
+  locations:
+    - Darkmoor/Interiors/DM_Z05_HereticalAcademy
 DM_Dragon_BalaurHead_A_02:
   schools: [life, myth]
+  locations:
+    - Darkmoor/Interiors/DM_Z05_HereticalAcademy
 DM_Dragon_BalaurHead_A_03:
   schools: [death, fire]
+  locations:
+    - Darkmoor/Interiors/DM_Z05_HereticalAcademy
   affinities:
     ice: 22
     fire: -74
     any: -44
 DM_Dragon_BalaurHead_A_04:
   schools: [ice, storm]
+  locations:
+    - Darkmoor/Interiors/DM_Z05_HereticalAcademy
   affinities:
     fire: 38
     ice: -75
@@ -178,6 +189,9 @@ DM_Human_Werewolf_A_05:
     - Darkmoor/Interiors/DM_Z01I08_SafehouseCourtyardDay_05
   schools: [death, moon]
 DM_Khrulhu_Instructor_A_02:
+  schools: [ice]
+  locations:
+    - Darkmoor/Interiors/DM_Z05_HereticalAcademy
   affinities: 
     fire: 30
     ice: -83

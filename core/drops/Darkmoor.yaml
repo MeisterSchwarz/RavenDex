@@ -1,0 +1,5 @@
+balaur:
+  reagents:
+    - item: outsider_relic
+      total: 6
+      rolls: 1
