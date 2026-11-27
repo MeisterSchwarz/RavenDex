@@ -68,7 +68,7 @@ AH_Jellyfish_Alien_A_01:
   affinities:
     myth: 30
     any: -39
-    storm: - 69
+    storm: -69
 AH_Kangaroo_Judge_B_02:
   schools: [fire]
   locations:
