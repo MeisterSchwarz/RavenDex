@@ -2,56 +2,67 @@
   "WizardCity": {
     "image": "wizardcity",
     "order": 1,
+    "arc": 1,
     "type": "main"
   },
   "Krokotopia": {
     "image": "krokotopia",
     "order": 2,
+    "arc": 1,
     "type": "main"
   },
   "Marleybone": {
     "image": "marleybone",
     "order": 3,
+    "arc": 1,
     "type": "main"
   },
   "MooShu": {
     "image": "mooshu",
     "order": 4,
+    "arc": 1,
     "type": "main"
   },
   "DragonSpire": {
     "image": "dragonspyre",
     "order": 5,
+    "arc": 1,
     "type": "main"
   },
   "Celestia": {
     "image": "celestia",
     "order": 6,
+    "arc": 2,
     "type": "main"
   },
   "Zafaria": {
     "image": "zafaria",
     "order": 7,
+    "arc": 2,
     "type": "main"
   },
   "Avalon": {
     "image": "avalon",
     "order": 8,
+    "arc": 2,
     "type": "main"
   },
   "Azteca": {
     "image": "azteca",
     "order": 9,
+    "arc": 2,
     "type": "main"
   },
   "Khrysalis": {
     "image": "khrysalis",
     "order": 10,
+    "arc": 2,
     "type": "main"
   },
   "Polaris": {
     "image": "polaris",
     "order": 11,
+    "arc": 3,
     "type": "main"
   },
   "Arcanum": {
@@ -62,46 +73,55 @@
   "Mirage": {
     "image": "mirage",
     "order": 13,
+    "arc": 3,
     "type": "main"
   },
   "Empyrea": {
     "image": "empyrea",
     "order": 14,
+    "arc": 3,
     "type": "main"
   },
   "Karamelle": {
     "image": "karamelle",
     "order": 15,
+    "arc": 4,
     "type": "main"
   },
   "Lemuria": {
     "image": "lemuria",
     "order": 16,
+    "arc": 4,
     "type": "main"
   },
   "Novus": {
     "image": "novus",
     "order": 17,
+    "arc": 4,
     "type": "main"
   },
   "Wallaru": {
     "image": "wallaru",
     "order": 18,
+    "arc": 4,
     "type": "main"
   },
   "Selenopolis": {
     "image": "selenopolis",
     "order": 19,
+    "arc": 4,
     "type": "main"
   },
   "Darkmoor": {
     "image": "darkmoor",
     "order": 20,
+    "arc": 5,
     "type": "main"
   },
   "Ahmarra": {
     "image": "ahmarra",
     "order": 21,
+    "arc": 5,
     "type": "main"
   },
   "Grizzleheim": {
