@@ -288,6 +288,8 @@ AH_Nimbari_HelenaF_01:
     - Ahmarra/Interiors/AH_Z03I07_StormWall
 AH_Octopus_Alien_A_01:
   schools: [storm, myth]
+  locations:
+    - Ahmarra/AH_Z02_FloodedCity
 AH_Player_Adventure_A_01:
   schools: [fire]
   locations:
@@ -343,6 +345,8 @@ AH_Totem_Base_A_01:
     storm: -66
 AH_Triwhal_Base_A_01:
   schools: [myth]
+  locations:
+    - Ahmarra/Interiors/AH_Z00I03_DangerousWhirlpool
 AH_Triwhal_Base_A_04:
   schools: [ice]
   locations:
@@ -395,6 +399,9 @@ AH_Turtle_Actor_QuestionF_A_03:
   ref: AH_Turtle_Actor_QuestionF_A_01
 AH_Turtle_Fanatic_A_01:
   schools: [life]
+  locations:
+    - Ahmarra/Interiors/AH_Z00I01_BesiegedShip
+    - Ahmarra/Interiors/AH_Z00I02_HijackedShip
 AH_Turtle_Fanatic_B_04:
   schools: [storm, balance]
   locations:
@@ -420,7 +427,17 @@ AH_Turtle_FanaticCaptainF_A_01:
 AH_Turtle_FanaticF_B_01:
   schools: [storm, myth]
 AH_Turtle_FanaticF_C_04:
+  ref: AH_Turtle_Fanatic_A_01
+AH_Turtle_Trooper_A_01:
   schools: [life]
+  locations:
+    - Ahmarra/Interiors/AH_Z00I06_TrooperTransport
+  affinities:
+    death: 15
+    life: -30
+    any: -15
+AH_Turtle_Trooper_B_01:
+  ref: AH_Turtle_Trooper_A_01
 AH_WhaleBird_Base_A_01:
   schools: [myth]
   locations:

@@ -32,6 +32,13 @@ AH_StormTitanAvatar_C_05:
         life_judge:
           enemy: AH_StormTitanAvatar_C_06
     - strategy_verdict
+AH_Turtle_Actor_QuestionF_A_01:
+  mechanics:
+    - id: first_round_self_defeat
+AH_WhaleBird_Base_B_01:
+  mechanics:
+    - id: echolocation
+    - id: sadistic_trill
 tribunal_judges:
   ref: AH_StormTitanAvatar_C_05
 tribunal_judges_challenge:

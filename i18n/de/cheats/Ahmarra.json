@@ -13,5 +13,12 @@
     "life_objections": "{life_judge}: Mehrzielzauber → {spell:Pigsie} (1.514 LP). Schaden über Zeit auf einem Richter → {spell:Taweret} entfernt den Effekt.",
     "strategy_theodolite": "Am Theodolit „Baba Yaga“ auswählen und {spell:Mythosfalle} auf {life_judge} wirken.",
     "strategy_verdict": "Bei „Überstimmt“ nur noch passen. Bei „Stattgegeben“ den Kampf neu starten."
+  },
+  "AH_Turtle_Actor_QuestionF_A_01": {
+    "first_round_self_defeat": "In Runde 1 besiegen sich alle Gegner selbst."
+  },
+  "AH_WhaleBird_Base_B_01": {
+    "echolocation": "Wirkt am Ende jeder geraden Runde {spell:Orkan} für 0 Pips",
+    "sadistic_trill": "Wirkt am Ende der dritten Runde und jeder zweiten Runde darauf folgenden Runde {spell:Grabsturm} für 0 Pips" 
   }
 }

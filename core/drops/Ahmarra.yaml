@@ -3,6 +3,16 @@ AH_Jellyfish_Alien_A_01:
     - item: turquoise
       total: 1
       rolls: 2 
+AH_Octopus_Alien_A_01:
+  reagents:
+    - item: bone
+      total: 1
+      rolls: 4
+AH_Turtle_ActorDragonF_A_01:
+  ref: AH_Turtle_ActorTritonF_A_01
+AH_Turtle_ActorGiantF_A_01:
+  ref: AH_Turtle_ActorTritonF_A_01
+AH_Turtle_ActorTritonF_A_01: {}
 tribunal_judges:
   reagents:
     - item: akashic_records
